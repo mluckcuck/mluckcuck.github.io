@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I have recently completed a PhD in Computer Science at the University of York, titled _Safety-Critical Java Level 2: Applications, Modelling, and Verification_. More details of my thesis and my publications during my PhD work can be found on the [Publications](/publications/) page. I've studied Computer Science, in some form, since my A-Levels; so I've got a wide experience of Comptuer Science topics at a range of education levels.
