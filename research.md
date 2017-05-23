@@ -10,4 +10,4 @@ SCJ adopts a new programming paradigm for applications that must be certified. S
 
 During my PhD, my thesis work produced the following publications.
 
-{% bibliography %}
+#{% bibliography %}
