@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Teaching and Outreach
 permalink: /teaching/
@@ -14,13 +14,13 @@ During my PhD I took the opportunity to demonstrate on several modules of differ
   - In the second term, the module focused on objects and inheritance, and used both Python and Java. My total contact time was 28 hours.
   - Each group contained around 65 students of very mixed ability.
 * One term demonstrating in the workshop sessions for a LaTeX module for PhD students at the University of York. The group contained around 12 PhD students and my contact time was 5 hours.
-* I also assisted in a workshop session on LaTeX for an MSc module. Thre were approximately 12 masters-level students.
+* I also assisted in a workshop session on LaTeX for an MSc module. There were approximately 12 masters-level students.
 
 
 Code Club
 ---------
 
-I volunteer with a local [Code Club](https://www.codeclub.org.uk), helping children to learn basic programming and computational thinking, using [Scratch](https://scratch.mit.edu/about). I find Scratch a useful language for teaching children programming, becasue it only allows blocks of code to fit together in a grammatically correct way. This focusses debugging on the _logic_ of the program rather than the syntax of the language.
+I volunteer with a local [Code Club](https://www.codeclub.org.uk), helping children to learn basic programming and computational thinking, using [Scratch](https://scratch.mit.edu/about). I find Scratch a useful language for teaching children programming, because it only allows blocks of code to fit together in a grammatically correct way. This focusses debugging on the _logic_ of the program rather than the syntax of the language.
 
 
 Tutoring
