@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-
 ## Thesis
 
 My research interests include formal modelling, model checking, safety-critical systems, and programming. My PhD relates to formalising [Safety-Critical Java (SCJ)](https://www.jcp.org/en/jsr/detail?id=302) using the state-rich process algebra [_Circus_](https://www.cs.york.ac.uk/circus/), which combines elements of Z and CSP. I was supervised jointly by Professors Ana Cavalcanti and Andy Wellings at the University of York.
@@ -19,7 +18,8 @@ The slides for my Thesis Seminar, which is a presentation of my entire thesis wo
 
 ## Publications
 
-During my PhD, my thesis work produced the following publications.
+You can find external lists of my publications on my [dblp](http://dblp.uni-trier.de/pers/hd/l/{{site.dblp_username}}) page or my [google scholar](https://scholar.google.co.uk/citations?user={{site.scholar_username}}) page. My thesis work produced the list of publications below, which also shows links to the papers and slide (where available).
+
 
 {% comment %}
 Uncomment this to generate new bibliography, then copy html in below. Careful of [slide] links
@@ -33,7 +33,6 @@ Uncomment this to generate new bibliography, then copy html in below. Careful of
 <li><span id="Luckcuck2016-hp">Luckcuck, M., Wellings, A., &amp; Cavalcanti, A. (2017). Safety-Critical Java: level 2 in practice. <i>Concurrency and Computation: Practice and Experience</i>, <i>29</i>(6), e3951–n/a. <a href="https://doi.org/10.1002/cpe.3951">http://doi.org/10.1002/cpe.3951</a>  </span></li>
 
 <li><span id="Luckcuck2016-om">Luckcuck, M., Cavalcanti, A., &amp; Wellings, A. (2016). A Formal Model of the Safety-Critical Java Level 2 Paradigm. In <i>Proceedings of the 12th International Conference on Integrated Formal Methods - Volume 9681</i> (pp. 226–241). New York, NY, USA: Springer-Verlag New York, Inc. <a href="https://doi.org/10.1007/978-3-319-33693-0_15">http://doi.org/10.1007/978-3-319-33693-0_15</a> <a href="/files/presentations/ifm2016_formalModelForTheScjL2Paradigm.pdf" download >[download slides]</a> </span></li></ol>
-
 
 ## Other Presentations
 
