@@ -10,16 +10,10 @@ My research interests include formal modelling, model checking, safety-critical 
 
 SCJ adopts a new programming paradigm for applications that must be certified. SCJ programs have a specific concurrent design and use region-based memory management (instead of garbage collection); specialised virtual machines are available to execute SCJ programs. It is organised into three compliance levels, of ascending complexity. My PhD focuses on the most complex compliance level, the programs of which are highly concurrent, potentially multi-processor, and make use of suspension and a variety of release patterns. My PhD provides the most complex compliance level of SCJ with its first semantics, enables further integration with other [_Circus_](https://www.cs.york.ac.uk/circus/) semantics for SCJ, and provides automatic translation from SCJ to our model.
 
-{% comment %}
-{%  
-
 ### Finding my Thesis
 
-A copy of my PhD thesis can be found on the [White Rose respository](http://etheses.whiterose.ac.uk/17307/).
-
 The slides for my Thesis Seminar, which is a presentation of my entire thesis work given just before the final hand in, can be <a href="/files/presentations/MLuckcuck_thesisSeminar.pdf" download >downloaded here</a>
-%}
-{% endcomment %}
+
 ## Publications
 
 You can find external lists of my publications on my [dblp](http://dblp.uni-trier.de/pers/hd/l/{{site.dblp_username}}) page or my [google scholar](https://scholar.google.co.uk/citations?user={{site.scholar_username}}) page. My thesis work produced the list of publications below, which also shows links to the papers and slide (where available).
