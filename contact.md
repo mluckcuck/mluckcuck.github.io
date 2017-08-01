@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 If you'd like to get in touch with me, feel free to drop me an email <a href="mailto:{{site.email}}" >
-{{site.email}} </a> or contact me on the social media platform of your choice from the list below.
+{{site.email}} </a> or contact me on the platform of your choice from the list below.
 
 <ul style="list-style:none">
   <li>
