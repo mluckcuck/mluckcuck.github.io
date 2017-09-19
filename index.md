@@ -5,6 +5,13 @@
 layout: page
 ---
 
-I have recently completed a PhD in Computer Science at the [University of York](https://www.cs.york.ac.uk/), titled _Safety-Critical Java Level 2: Applications, Modelling, and Verification_. More details of my thesis and my publications during my PhD work can be found on the [Research](/research/) page. I've studied Computer Science, in some form, since my A-Levels; so I've got a wide experience of Comptuer Science topics at a range of education levels.
+<img alt="Matt Luckcuk at PhD Gradutaion 2017" style="float: right; class='img-responsive'" src="/files/images/gradPicture.png">
+
+
+I'm a PhD graduate who has recently found teaching to be really enjoyable. I obtained my PhD in Computer Science from the [University of York](https://www.cs.york.ac.uk/). More details of my thesis and my publications during my PhD work can be found on the [Research](/research/) page.
+
+I've have teaching experience with a range of age- and ability-levels, some details of which can be found on the [Teaching and Outreach](/teaching/) page.
+
+I've studied Computer Science since my A-Levels, which helps me when trying to explain concepts to students. Recently, I've been teaching children basic computer programming (mainly in Scratch), which has been lots of fun teaching university students, and delivering a short adult-education course on programming.
 
 A current version of my CV can be found [here](/files/MSL-CV.pdf).

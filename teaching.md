@@ -2,7 +2,12 @@
 layout: page
 title: Teaching and Outreach
 permalink: /teaching/
+
 ---
+
+Adult Education
+---------------
+I'm delivering an 11 week adult-education course teaching introductory programming skills using Python, with [York Learning](http://yorklearning.org.uk/). Each week  I present a lecture and then guide the students through Python programming exercises designed to reinforce the material in the lecture and teach the basic practical skills of programming. The content for this course can be found on the [Python Course](/python/) page.
 
 University Demonstrating
 ------------------------
@@ -17,10 +22,12 @@ During my PhD I took the opportunity to demonstrate on several modules of differ
 * I also assisted in a workshop session on LaTeX for an MSc module. There were approximately 12 masters-level students.
 
 
-Code Club
+Child Education
 ---------
 
 I volunteer with a local [Code Club](https://www.codeclub.org.uk), helping children to learn basic programming and computational thinking, using [Scratch](https://scratch.mit.edu/about). I find Scratch a useful language for teaching children programming, because it only allows blocks of code to fit together in a grammatically correct way. This focusses debugging on the _logic_ of the program rather than the syntax of the language.
+
+I als teach children (ranging from 8-14) basic programming skills with [York Maker Hub](www.yorkmakerhub.com). We provide sessions that allow the children to build and program various projects on a variety of platforms, including Scratch, Makey Makey, and Lego Mindstorms.
 
 
 Tutoring
