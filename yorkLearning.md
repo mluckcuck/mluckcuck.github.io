@@ -16,7 +16,7 @@ Each week we will introduce new programming concepts, building towards a more co
 * Basic User Input,
 * Functions.
 
-## Week 1 (Introduction to Computer Coding)
+### Week 1 (Introduction to Computer Coding)
 
 
 | File          | Links       |
