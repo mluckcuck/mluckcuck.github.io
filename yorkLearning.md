@@ -16,6 +16,8 @@ Each week we will introduce new programming concepts, building towards a more co
 * Basic User Input,
 * Functions.
 
+You can download the course schedule [here](/files/yorkLearningCourses/ccb/ccbSchedule.pdf)
+
 ### Week 1 (Introduction to Computer Coding)
 
 
