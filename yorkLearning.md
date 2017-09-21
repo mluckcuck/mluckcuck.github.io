@@ -16,7 +16,15 @@ Each week we will introduce new programming concepts, building towards a more co
 * Basic User Input,
 * Functions.
 
-You can download the course schedule [here](/files/yorkLearningCourses/ccb/ccbSchedule.pdf)
+### Course Files
+
+
+| File          | Links       |
+|:------------- |:------------- |
+| Course Schedule |  [ccbSchedule.pdf](/files/yorkLearningCourses/ccb/ccbSchedule.pdf) |
+| Course Feedback | [Course Feedback Form](https://docs.google.com/forms/d/1rmJKDG0gt1gb8t6u_yMYcom1fJ7soDdQNoD8YdjRsSA/edit?usp=sharing)
+
+
 
 ### Week 1 (Introduction to Computer Coding)
 
@@ -26,6 +34,6 @@ You can download the course schedule [here](/files/yorkLearningCourses/ccb/ccbSc
 | Lecture Slides| [CCB-week1.pdf](/files/yorkLearningCourses/ccb/week1/CCB-week1.pdf) |
 | Python Exercises | [CCB-Exercises-week1.pdf](/files/yorkLearningCourses/ccb/week1/CCB-Exercises-week1.pdf) |
 | Variable Swap |  [varSwap.py](/files/yorkLearningCourses/ccb/week1/varSwap.py)      |
-| Logo Shapes   | [triangle.py](/files/yorkLearningCourses/ccb/week1/triangle.py)     |
+| Logo Shapes   | [triangle.py](/files/yorkLearningCourses/ccb/week1/triangle.py) [square.py](/files/yorkLearningCourses/ccb/week1/square.py) [rectangle.py](/files/yorkLearningCourses/ccb/week1/rectangle.py) |
 | Maths Quiz    | [quiz.py](/files/yorkLearningCourses/ccb/week1/quiz.py)     |
 | Tea Totaller  | [teaTotaller.py](/files/yorkLearningCourses/ccb/week1/teaTotaller.py)     |
