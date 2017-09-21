@@ -4,7 +4,7 @@ title: Python Course
 permalink: /python/
 
 ---
-Computer Coding for Beginngers
+Computer Coding for Beginners
 ------------------------
 
 This course introduces the basics of computer programming and computational thinking (the approaches to solving problems using a computer). No prior experience of computer programming is assumed.
