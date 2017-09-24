@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img alt="Matt Luckcuk at PhD Gradutaion 2017" style="float: right; class='img-responsive'" src="/files/images/gradPicture.png">
+<img alt="Matt Luckcuk at PhD Graduation 2017" style="float: right; class='img-responsive'" src="/files/images/gradPicture.png">
 
 
 I'm a PhD graduate who has recently found teaching to be really enjoyable. I obtained my PhD in Computer Science from the [University of York](https://www.cs.york.ac.uk/). More details of my thesis and my publications during my PhD work can be found on the [Research](/research/) page.
