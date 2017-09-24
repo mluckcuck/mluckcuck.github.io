@@ -1,4 +1,4 @@
-"""Darw a green triangle """
+"""Draw a green triangle """
 
 from turtle import * # Imports from the turtle library everything it defines
 
