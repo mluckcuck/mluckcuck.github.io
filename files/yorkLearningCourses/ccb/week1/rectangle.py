@@ -8,7 +8,7 @@ width = 60
 
 
 penup()
-setpos(-200,-200)
+setpos(0,0)
 pendown()
 
 

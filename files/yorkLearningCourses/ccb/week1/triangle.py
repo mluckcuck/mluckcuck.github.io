@@ -7,7 +7,7 @@ length = 100 #This is a normal python variable
 angle = 120 # Another python variable
 
 penup() # Stops the turtle from drawing as it moves
-setpos(-200,200) # Moves the turtle to the given position
+setpos(0,0) # Moves the turtle to the given position
 pendown() # Starts the turtle drawing as it moves 
 
 color('green') #Sets the colour for the fill commands..
