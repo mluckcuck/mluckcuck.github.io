@@ -27,6 +27,7 @@ Each week we will introduce new programming concepts, building towards a more co
 | Building Blocks | [Python Building Blocks](/files/yorkLearningCourses/ccb/buildingBlocks.pdf)|
 
 <br>
+
 ---
 ### Week 1 (Introduction to Computer Coding)
 
