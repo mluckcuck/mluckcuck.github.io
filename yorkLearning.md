@@ -24,8 +24,10 @@ Each week we will introduce new programming concepts, building towards a more co
 | Course Schedule |  [ccbSchedule.pdf](/files/yorkLearningCourses/ccb/ccbSchedule.pdf) |
 | Course Feedback | [Course Feedback Form](https://docs.google.com/forms/d/1rmJKDG0gt1gb8t6u_yMYcom1fJ7soDdQNoD8YdjRsSA/edit?usp=sharing)
 | Learning Plan    | [Learning Plan Form](https://goo.gl/forms/StwXNC1aJvQZ4PUD3)
+| Building Blocks | [Python Building Blocks](/files/yorkLearningCourses/ccb/buildingBlocks.pdf)|
 
 <br>
+
 ---
 ### Week 1 (Introduction to Computer Coding)
 
