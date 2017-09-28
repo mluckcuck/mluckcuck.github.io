@@ -37,6 +37,7 @@ Each week we will introduce new programming concepts, building towards a more co
 | Variable Swap |  [varSwap.py](/files/yorkLearningCourses/ccb/week1/varSwap.py)      |
 | Logo Shapes   | [triangle.py](/files/yorkLearningCourses/ccb/week1/triangle.py) [square.py](/files/yorkLearningCourses/ccb/week1/square.py) [rectangle.py](/files/yorkLearningCourses/ccb/week1/rectangle.py) |
 | Maths Quiz    | [quiz-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/quiz-solution.py)     |
+| Tea Totaller  | [teaTotaller.py](/files/yorkLearningCourses/ccb/week1/teaTotaller.py)     |
 
 <br>
 
