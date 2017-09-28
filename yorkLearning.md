@@ -49,7 +49,7 @@ This is how I've solved the problems set in the exercises, but they may not be t
 | Variable Swap |  [varSwap-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/varSwap-solution.py)      |
 | Logo Shapes   | [rectangle-solution.py](/files/yorkLearningCourses/ccb/week1/solution/rectangle-solution.py) [square-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/square-solution.py)  |
 | Maths Quiz    | [quiz.py](/files/yorkLearningCourses/ccb/week1/quiz.py)     |
-| Tea Totaller  | [teaTotaller.py](/files/yorkLearningCourses/ccb/week1/teaTotaller.py)     |
+
 
 <br>
 
