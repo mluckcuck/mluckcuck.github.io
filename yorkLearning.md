@@ -49,7 +49,7 @@ This is how I've solved the problems set in the exercises, but they may not be t
 | File          | Link       |
 |:------------- |:------------- |
 | Variable Swap |  [varSwap-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/varSwap-solution.py)      |
-| Logo Shapes   | [rectangle-solution.py](/files/yorkLearningCourses/ccb/week1/solution/rectangle-solution.py) [square-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/square-solution.py)  |
+| Logo Shapes   | [rectangle-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/rectangle-solution.py) [square-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/square-solution.py)  |
 | Maths Quiz    | [quiz.py](/files/yorkLearningCourses/ccb/week1/quiz.py)     |
 
 
@@ -69,7 +69,7 @@ This is how I've solved the problems set in the exercises, but they may not be t
 | File          | Link       |
 |:------------- |:------------- |
 | Day of the Week |  [dayOfTheWeek-solution.py](/files/yorkLearningCourses/ccb/week2/solutions/dayOfTheWeek-solution.py)      |
-|Guess Me   | [guess-solution.py](/files/yorkLearningCourses/ccb/week2/solution/guess-solution.py) |
+|Guess Me   | [guess-solution.py](/files/yorkLearningCourses/ccb/week2/solutions/guess-solution.py) |
 
 <br>
 
