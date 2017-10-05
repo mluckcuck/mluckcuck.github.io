@@ -55,11 +55,28 @@ This is how I've solved the problems set in the exercises, but they may not be t
 
 <br>
 
----
 ### Week 2
 
 | File          | Link       |
 |:------------- |:------------- |
 | Lecture Slides| [CCB-week2.pdf](/files/yorkLearningCourses/ccb/week2/CCB-week2.pdf) |
 | Python Exercises | [CCB-Exercises-week2.pdf](/files/yorkLearningCourses/ccb/week2/CCB-Exercises-week2.pdf) |
+
+#### Exercise Solutions
+
+This is how I've solved the problems set in the exercises, but they may not be the _only_ solution. Your program doesn't have to look like mine to be right.
+
+| File          | Link       |
+|:------------- |:------------- |
+| Day of the Week |  [dayOfTheWeek-solution.py](/files/yorkLearningCourses/ccb/week2/solutions/dayOfTheWeek-solution.py)      |
+|Guess Me   | [guess-solution.py](/files/yorkLearningCourses/ccb/week2/solution/guess-solution.py) |
+
+<br>
+
+### Week 3
+
+| File          | Link       |
+|:------------- |:------------- |
+| Lecture Slides| [CCB-week3.pdf](/files/yorkLearningCourses/ccb/week3/CCB-week3.pdf) |
+| Python Exercises | [CCB-Exercises-week3.pdf](/files/yorkLearningCourses/ccb/week3/CCB-Exercises-week3.pdf) |
 
