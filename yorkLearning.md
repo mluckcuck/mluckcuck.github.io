@@ -79,4 +79,8 @@ This is how I've solved the problems set in the exercises, but they may not be t
 |:------------- |:------------- |
 | Lecture Slides| [CCB-week3.pdf](/files/yorkLearningCourses/ccb/week3/CCB-week3.pdf) |
 | Python Exercises | [CCB-Exercises-week3.pdf](/files/yorkLearningCourses/ccb/week3/CCB-Exercises-week3.pdf) |
+| Global Var Swap |[globalVarSwap.py](/files/yorkLearningCourses/ccb/week3/globalVarSwap.py)  |
+| Mine Detector  |  [mineDetector.py](/files/yorkLearningCourses/ccb/week3/mineDetector.py)  |
+
+
 
