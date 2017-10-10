@@ -82,5 +82,9 @@ This is how I've solved the problems set in the exercises, but they may not be t
 | Global Var Swap |[globalVarSwap.py](/files/yorkLearningCourses/ccb/week3/globalVarSwap.py)  |
 | Mine Detector  |  [mineDetector.py](/files/yorkLearningCourses/ccb/week3/mineDetector.py)  |
 
+<br>
 
+### Week 4
+
+Week four has no lecture, we'll be focussing on practical exercises for the full session.
 
