@@ -49,7 +49,7 @@ This is how I've solved the problems set in the exercises, but they may not be t
 | File          | Link       |
 |:------------- |:------------- |
 | Variable Swap |  [varSwap-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/varSwap-solution.py)      |
-| Logo Shapes   | [rectangle-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/rectangle-solution.py) [square-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/square-solution.py)  |
+| Logo Shapes   | [square-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/square-solution.py) [rectangle-solution.py](/files/yorkLearningCourses/ccb/week1/solutions/rectangle-solution.py)   |
 | Maths Quiz    | [quiz.py](/files/yorkLearningCourses/ccb/week1/quiz.py)     |
 
 
@@ -62,14 +62,16 @@ This is how I've solved the problems set in the exercises, but they may not be t
 | Lecture Slides| [CCB-week2.pdf](/files/yorkLearningCourses/ccb/week2/CCB-week2.pdf) |
 | Python Exercises | [CCB-Exercises-week2.pdf](/files/yorkLearningCourses/ccb/week2/CCB-Exercises-week2.pdf) |
 
+<br>
 #### Exercise Solutions
 
 This is how I've solved the problems set in the exercises, but they may not be the _only_ solution. Your program doesn't have to look like mine to be right.
 
 | File          | Link       |
 |:------------- |:------------- |
+| Logo Shapes 2 | [triangle2-solution.py](/files/yorkLearningCourses/ccb/week2/solutions/triangle2-solution.py) [square2-solution.py](/files/yorkLearningCourses/ccb/week2/solutions/square2-solution.py) [rectangle2-solution.py](/files/yorkLearningCourses/ccb/week2/solutions/rectangle2-solution.py)   |
 | Day of the Week |  [dayOfTheWeek-solution.py](/files/yorkLearningCourses/ccb/week2/solutions/dayOfTheWeek-solution.py)      |
-|Guess Me   | [guess-solution.py](/files/yorkLearningCourses/ccb/week2/solutions/guess-solution.py) |
+| Guess Me   | [guess-solution.py](/files/yorkLearningCourses/ccb/week2/solutions/guess-solution.py) |
 
 <br>
 
@@ -83,8 +85,25 @@ This is how I've solved the problems set in the exercises, but they may not be t
 | Mine Detector  |  [mineDetector.py](/files/yorkLearningCourses/ccb/week3/mineDetector.py)  |
 
 <br>
+#### Exercise Solutions
+
+This is how I've solved the problems set in the exercises, but they may not be the _only_ solution. Your program doesn't have to look like mine to be right.
+
+| File          | Link       |
+|:------------- |:------------- |
+| Global Var Swap | [globalVarSwap-solution.py](/files/yorkLearningCourses/ccb/week3/solutions/globalVarSwap-solution.py)   |
+| Longest Word    |  [longestWord-solution.py](/files/yorkLearningCourses/ccb/week3/solutions/longestWord-solution.py)  |
+| Mine Detector   |  [mineDetector-solution.py](/files/yorkLearningCourses/ccb/week3/solutions/mineDetector-solution.py)  |
+
+<br>
 
 ### Week 4
 
 Week four has no lecture, we'll be focussing on practical exercises for the full session.
 
+### Week 5
+
+| File          | Link       |
+|:------------- |:------------- |
+| Lecture Slides| Coming Soon |
+| Python Exercises | Coming Soon |
