@@ -101,9 +101,15 @@ This is how I've solved the problems set in the exercises, but they may not be t
 
 Week four has no lecture, we'll be focussing on practical exercises for the full session.
 
+<br>
+
 ### Week 5
 
 | File          | Link       |
 |:------------- |:------------- |
-| Lecture Slides| Coming Soon |
-| Python Exercises | Coming Soon |
+| Lecture Slides| [CCB-week5.pdf](/files/yorkLearningCourses/ccb/week5/CCB-Week5.pdf)  |
+| Python Exercises | [CCB-Exercises-week5.pdf](/files/yorkLearningCourses/ccb/week5/CCB-Exercises-week5.pdf) |
+| lettersInString |  [lettersInString.py](/files/yorkLearningCourses/ccb/week5/lettersInString.py)  |
+| moreseCode	|  [morseCode.py](/files/yorkLearningCourses/ccb/week5/morseCode.py)  |
+| dictionaryReverse (Helper Function) |  [dictionaryReverse.py](/files/yorkLearningCourses/ccb/week5/dictionaryReverse.py)  |
+
