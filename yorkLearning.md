@@ -110,6 +110,37 @@ Week four has no lecture, we'll be focussing on practical exercises for the full
 | Lecture Slides| [CCB-week5.pdf](/files/yorkLearningCourses/ccb/week5/CCB-Week5.pdf)  |
 | Python Exercises | [CCB-Exercises-week5.pdf](/files/yorkLearningCourses/ccb/week5/CCB-Exercises-week5.pdf) |
 | lettersInString |  [lettersInString.py](/files/yorkLearningCourses/ccb/week5/lettersInString.py)  |
-| moreseCode	|  [morseCode.py](/files/yorkLearningCourses/ccb/week5/morseCode.py)  |
+| morseCode	|  [morseCode.py](/files/yorkLearningCourses/ccb/week5/morseCode.py)  |
 | dictionaryReverse (Helper Function) |  [dictionaryReverse.py](/files/yorkLearningCourses/ccb/week5/dictionaryReverse.py)  |
+
+#### Exercise Solutions
+
+This is how I've solved the problems set in the exercises, but they may not be the _only_ solution. Your program doesn't have to look like mine to be right.
+
+| File          | Link       |
+|:------------- |:------------- |
+| lettersInString |  [lettersInString.py](/files/yorkLearningCourses/ccb/week5/solutions/lettersInString-solution.py)  |
+| morseCode	|  [morseCode.py](/files/yorkLearningCourses/ccb/week5/solutions/morseCode-solution.py)  |
+
+<br>
+
+### Week 6
+
+| File          | Link       |
+|:------------- |:------------- |
+| Lecture Slides| [CCB-week5.pdf](/files/yorkLearningCourses/ccb/week6/CCB-Week6.pdf)  |
+| Python Exercises | [CCB-Exercises-week5.pdf](/files/yorkLearningCourses/ccb/week6/CCB-Exercises-week6.pdf) |
+| Longest Word in a File |  [wordListFile.txt](/files/yorkLearningCourses/ccb/week6/wordListFile.txt)  |
+| Letters in a File	|  [inputString.txt](/files/yorkLearningCourses/ccb/week6/inputString.txt)  |
+| Mine Detector with Files|  [grid.json](/files/yorkLearningCourses/ccb/week6/grid.json)  |
+
+#### Exercise Solutions
+
+This is how I've solved the problems set in the exercises, but they may not be the _only_ solution. Your program doesn't have to look like mine to be right.
+
+| File          | Link       |
+|:------------- |:------------- |
+| Longest Word in a File |  [lettersInString.py](/files/yorkLearningCourses/ccb/week6/solutions/longestWordInAFile-solution.py)  |
+| Letters in a File	|  [morseCode.py](/files/yorkLearningCourses/ccb/week6/solutions/lettersInAFile-solution.py)  |
+| Mine Detector with Files|  [dictionaryReverse.py](/files/yorkLearningCourses/ccb/week6/solutions/mineDetectorFile-solution.py)  |
 
