@@ -21,7 +21,7 @@ Each week we will introduce new programming concepts, building towards a more co
 
 | File          | Link       |
 |:------------- |:------------- |
-| Course Feedback | [Course Feedback Form](https://docs.google.com/forms/d/1rmJKDG0gt1gb8t6u_yMYcom1fJ7soDdQNoD8YdjRsSA/edit?usp=sharing)
+| Course Feedback | [Course Feedback Form](https://goo.gl/forms/IDfFOWR9S6N93aIh2)
 | Learning Plan (pre-course)   | [Learning Plan Form (pre)]()
 | Learning Plan (post-course)   | [Learning Plan Form (post)](https://goo.gl/forms/W2OXTYhBVElbVd453)
 
