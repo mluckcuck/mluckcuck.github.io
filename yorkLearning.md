@@ -22,8 +22,8 @@ Each week we will introduce new programming concepts, building towards a more co
 | File          | Link       |
 |:------------- |:------------- |
 | Course Feedback | [Course Feedback Form](https://docs.google.com/forms/d/1rmJKDG0gt1gb8t6u_yMYcom1fJ7soDdQNoD8YdjRsSA/edit?usp=sharing)
-| Learning Plan    | [Learning Plan Form](https://goo.gl/forms/StwXNC1aJvQZ4PUD3)
-| Building Blocks | [Python Building Blocks](/files/yorkLearningCourses/ccb/buildingBlocks.pdf)|
+| Learning Plan (pre-course)   | [Learning Plan Form (pre)]()
+| Learning Plan (post-course)   | [Learning Plan Form (post)](https://goo.gl/forms/W2OXTYhBVElbVd453)
 
 <br>
 
@@ -128,11 +128,13 @@ This is how I've solved the problems set in the exercises, but they may not be t
 
 | File          | Link       |
 |:------------- |:------------- |
-| Lecture Slides| [CCB-week5.pdf](/files/yorkLearningCourses/ccb/week6/CCB-Week6.pdf)  |
-| Python Exercises | [CCB-Exercises-week5.pdf](/files/yorkLearningCourses/ccb/week6/CCB-Exercises-week6.pdf) |
+| Lecture Slides| [CCB-week6.pdf](/files/yorkLearningCourses/ccb/week6/CCB-Week6.pdf)  |
+| Python Exercises | [CCB-Exercises-week6.pdf](/files/yorkLearningCourses/ccb/week6/CCB-Exercises-week6.pdf) |
 | Longest Word in a File |  [wordListFile.txt](/files/yorkLearningCourses/ccb/week6/wordListFile.txt)  |
 | Letters in a File	|  [inputString.txt](/files/yorkLearningCourses/ccb/week6/inputString.txt)  |
 | Mine Detector with Files|  [grid.json](/files/yorkLearningCourses/ccb/week6/grid.json)  |
+
+<br>
 
 #### Exercise Solutions
 
