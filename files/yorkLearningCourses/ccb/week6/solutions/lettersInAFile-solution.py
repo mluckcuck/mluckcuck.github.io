@@ -16,7 +16,8 @@ def loadStringFrom(fileName):
 		inputFile = open(fileName)
 	except FileNotFoundError:
 		print("Oops")
-		inputFile.close()
+		return ""
+		
 	else:
 		string = inputFile.read() #Only works if the file is only one line
 		inputFile.close()
@@ -27,7 +28,7 @@ def saveLettersTo(fileName):
 		dataFile = open(fileName, "w")
 	except FileNotFoundError:
 		print("Oops")
-		dataFile.close()
+		
 	else:
 		print(letters)
 		for k,v in letters.items():

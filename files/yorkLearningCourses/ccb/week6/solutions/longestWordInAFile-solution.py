@@ -5,9 +5,10 @@ def loadWordList(fileName):
                 f = open(fileName)
         except FileNotFoundError as err:
                 print(err)
-                f.close()
+                
                 #Then do something useful
                 #Perhaps ask the user for the file name?
+                return []
         else:
                 loadedList = f.read().splitlines()
                 f.close()
