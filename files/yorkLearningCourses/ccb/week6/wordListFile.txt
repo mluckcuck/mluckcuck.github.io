@@ -1,5 +1,0 @@
-Dog
-Pig
-Cat
-Horse
-Octopus

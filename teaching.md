@@ -7,7 +7,7 @@ permalink: /teaching/
 
 Adult Education
 ---------------
-I recently delivered a 6 week adult-education course teaching introductory programming skills using Python, with [York Learning](http://yorklearning.org.uk/). Each week  I presented a lecture and then guided the students through Python programming exercises designed to reinforce the material in the lecture and teach the basic practical skills of programming. The content for this course can be found on the [Python Course](/python/) page.
+I delivered a 6 week adult-education course teaching introductory programming skills using Python, with [York Learning](http://yorklearning.org.uk/). The course contained 5 lectures and Python programming exercises (Week 4 focussed entirely on practical programming). I designed the lectures and Python exercises from scratch to teach the basic practical skills of programming. Feel free to [download](/files/Computer_Coding_For_Beginners.zip) the content of this course.
 
 University Demonstrating
 ------------------------

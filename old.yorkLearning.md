@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Python Course
-permalink: /python/
+--- layout: page
+--- title: Python Course
+--- permalink: /python/
 
 ---
 Computer Coding for Beginners
@@ -145,4 +145,3 @@ This is how I've solved the problems set in the exercises, but they may not be t
 | Longest Word in a File |  [lettersInString.py](/files/yorkLearningCourses/ccb/week6/solutions/longestWordInAFile-solution.py)  |
 | Letters in a File	|  [morseCode.py](/files/yorkLearningCourses/ccb/week6/solutions/lettersInAFile-solution.py)  |
 | Mine Detector with Files|  [dictionaryReverse.py](/files/yorkLearningCourses/ccb/week6/solutions/mineDetectorFile-solution.py)  |
-
