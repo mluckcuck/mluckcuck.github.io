@@ -1,9 +1,4 @@
----
---- layout: page
---- title: Python Course
---- permalink: /python/
 
----
 Computer Coding for Beginners
 ------------------------
 
