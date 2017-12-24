@@ -26,15 +26,18 @@ Uncomment this to generate new bibliography, then copy html in below. Careful of
 {% bibliography %}
 {% endcomment %}
 
-<ol class="bibliography"><li><span id="Wellings2013">Wellings, A., Luckcuck, M., &amp; Cavalcanti, A. (2013). Safety-critical Java level 2: motivations, example applications and issues. In <i>Proceedings of the 11th International Workshop on Java Technologies for Real-time and Embedded Systems</i> (pp. 48–57). New York, NY, USA: ACM. <a href="https://doi.org/10.1145/2512989.2512991">https://doi.org/10.1145/2512989.2512991</a> <a href="/files/presentations/jtres2013_usesofscjlevel2.pdf" download >[download slides]</a> </span></li>
+<ol class="bibliography"><li>
+<span id="Wellings2013">Wellings, A., Luckcuck, M., &amp; Cavalcanti, A. (2013). <b>Safety-critical Java level 2: motivations, example applications and issues.</b> In <i>Proceedings of the 11th International Workshop on Java Technologies for Real-time and Embedded Systems</i> (pp. 48–57). New York, NY, USA: ACM. <a href="https://doi.org/10.1145/2512989.2512991">https://doi.org/10.1145/2512989.2512991</a> <a href="/files/presentations/jtres2013_usesofscjlevel2.pdf" download > <button type="button" > Slides </button> </a> <a href="/files/bib/Wellings2013.bib" download > <button type="button" > Bibtex </button> </a> </span></li>
 
-<li><span id="Luckcuck2015-ua">Luckcuck, M. (2015). A Formal Model for the SCJ Level 2 Paradigm. In Aichernig &amp; B. Alessandro (Eds.), <i>Doctoral Symposium of Formal Methods 2015</i> (pp. 45–48). <a href="/files/presentations/dsfm2015_formalModelForSCJL2.pdf" download > [download slides]</a> </span></li>
+<li><span id="Luckcuck2015-ua">Luckcuck, M. (2015). <b>A Formal Model for the SCJ Level 2 Paradigm.</b> In Aichernig &amp; B. Alessandro (Eds.), <i>Doctoral Symposium of Formal Methods 2015</i> (pp. 45–48). <a href="/files/presentations/dsfm2015_formalModelForSCJL2.pdf" download > <button type="button" > Slides </button> </a>
+<a href="/files/bib/Luckcuck2015.bib" download > <button type="button" > Bibtex </button> </a></span></li>
 
-<li><span id="Luckcuck2016-hp">Luckcuck, M., Wellings, A., &amp; Cavalcanti, A. (2017). Safety-Critical Java: level 2 in practice. <i>Concurrency and Computation: Practice and Experience</i>, <i>29</i>(6), e3951–n/a. <a href="https://doi.org/10.1002/cpe.3951">http://doi.org/10.1002/cpe.3951</a>  </span></li>
+<li><span id="Luckcuck2016-hp">Luckcuck, M., Wellings, A., &amp; Cavalcanti, A. (2017). <b>Safety-Critical Java: level 2 in practice.</b> <i>Concurrency and Computation: Practice and Experience</i> <a href="https://doi.org/10.1002/cpe.3951">http://doi.org/10.1002/cpe.3951</a> <a href="/files/bib/Luckcuck2016_CPE.bib" download > <button type="button" > Bibtex </button> </a> </span></li>
 
-<li><span id="Luckcuck2016-om">Luckcuck, M., Cavalcanti, A., &amp; Wellings, A. (2016). A Formal Model of the Safety-Critical Java Level 2 Paradigm. In <i>Proceedings of the 12th International Conference on Integrated Formal Methods - Volume 9681</i> (pp. 226–241). New York, NY, USA: Springer-Verlag New York, Inc. <a href="https://doi.org/10.1007/978-3-319-33693-0_15">http://doi.org/10.1007/978-3-319-33693-0_15</a> <a href="/files/presentations/ifm2016_formalModelForTheScjL2Paradigm.pdf" download >[download slides]</a> </span></li></ol>
+<li><span id="Luckcuck2016-om">Luckcuck, M., Cavalcanti, A., &amp; Wellings, A. (2016). <b>A Formal Model of the Safety-Critical Java Level 2 Paradigm.</b> In <i>Proceedings of the 12th International Conference on Integrated Formal Methods - Volume 9681</i> (pp. 226–241). New York, NY, USA: Springer-Verlag New York, Inc. <a href="https://doi.org/10.1007/978-3-319-33693-0_15">http://doi.org/10.1007/978-3-319-33693-0_15</a> <a href="/files/presentations/ifm2016_formalModelForTheScjL2Paradigm.pdf" download ><button type="button" > Slides </button></a> <a href="/files/bib/Luckcuck2016_ifm.bib" download > <button type="button" > Bibtex </button> </a></span></li>
+</ol>
 
 ## Other Presentations
 
-+ [Certifiable Java for Embedded Systems (CJ4ES)](http://cj4es.imm.dtu.dk/) <a href="/files/presentations/CJ4ES_modellingSscjL2InCircus.pdf" download > [download slides]</a>
-+ Efficient Model Checking in FDR <a href="/files/presentations/efficientModelChecking.pdf" download > [download slides]</a>
++ [Certifiable Java for Embedded Systems (CJ4ES)](http://cj4es.imm.dtu.dk/) <a href="/files/presentations/CJ4ES_modellingSscjL2InCircus.pdf" download > <button type="button" > Slides </button> </a>
++ Efficient Model Checking in FDR <a href="/files/presentations/efficientModelChecking.pdf" download > <button type="button" > Slides </button> </a>
