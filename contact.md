@@ -29,10 +29,17 @@ If you'd like to get in touch with me, feel free to drop me an email <a href="ma
 
 
   <li>
-    <a href="https://york.academia.edu/{{ site.academiaEdu_username }}">
+    <a href="https://liverpool.academia.edu/{{ site.academiaEdu_username }}">
       <img alt="academia.edu logo" src="https://a.academia-assets.com/images/academia-logo-redesign-2015-A.svg" width="32" height="32" /> https://york.academia.edu/{{ site.academiaEdu_username }}
     </a>
   </li>
+
+  <li>
+    <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
+      <img alt="researchgate logo" src="/files/images/RG_square_green.png" width="32" height="32" /> {{ site.researchgate_username }}
+    </a>
+  </li>
+
 
   <li>
     <a href="https://scratch.mit.edu/users/{{ site.scratch_username }}">
