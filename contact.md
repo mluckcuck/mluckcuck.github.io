@@ -36,7 +36,7 @@ If you'd like to get in touch with me, feel free to drop me an email <a href="ma
 
   <li>
     <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
-      <img alt="researchgate logo" src="/files/images/RG_square_green.png" width="32" height="32" /> {{ site.researchgate_username }}
+      <img alt="researchgate logo" src="/files/images/RG_square_green.png" width="32" height="32" /> https://www.researchgate.net/profile/{{ site.researchgate_username }}
     </a>
   </li>
 
