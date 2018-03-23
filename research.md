@@ -10,7 +10,7 @@ permalink: /research/
 I'm Research Assistant in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the University of Liverpool, where I'm working on the Autonomous Robots in Hazardous Environments project -- details of the EPSRC grant can be found [here](https://www.epsrc.ac.uk/funding/calls/raihubs/). I am working on three separate, but related, hubs. Each hub focusses on a different hazardous environment: [nuclear](http://rainhub.org.uk/), [offshore](https://orcahub.org/), and [space](http://cgi.csc.liv.ac.uk/~michael/FAIR-SPACE-Hub/).
 Such environments are remote and hazardous to humans, so robotic systems deployed there require a high level of autonomy and rigorous verification.
 
-My a post-doctoral research on this project involves the verification of autonomous robotic systems in the previously mentioned hazardous environments. I am looking at a range of techniques, including process algebraic models and temporal logic.
+My post-doctoral research on this project involves the verification of autonomous robotic systems in the previously mentioned hazardous environments. I am looking at a range of techniques, including process algebraic models and temporal logic.
 
 
 ## Thesis
