@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+section: Research
 
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title:  "The Ups and Downs of Word Counts"
 date:   2018-03-17 19:30:01 +0100
 categories: writing
+image : /files/images/thesis.png
+section: Blog
 ---
 
 Whether you're writing fact or fiction, your word count will experience ups and downs, fits and starts. It's very easy to imagine the process of writing as a nice smooth path from an empty document to the finished article; with each word count being a triumphant increase over the last word count. (OK, so maybe not everyone checks their word count as often as I do.) However, this is not true.

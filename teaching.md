@@ -2,7 +2,7 @@
 layout: page
 title: Teaching and Outreach
 permalink: /teaching/
-
+section: Teaching and Outreach
 ---
 
 Adult Education

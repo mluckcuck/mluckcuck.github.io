@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction to Programming"
 date:   2017-05-28 11:48:19 +0100
 categories: programming
+section: Blog
 ---
 
 There is a lot that I could say about programming, but this is a brief introduction so I've kept to the basics. This post will cover what programming is, discuss programming languages and the process of programming, and provide a small example of a basic algorithm. This is based on a talk I put together for a recent interview, the slides for which can be found [here](/files/presentations/IntroductionToProgramming.pdf).

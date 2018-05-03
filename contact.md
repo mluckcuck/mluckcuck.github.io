@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-
+section: Contact
 ---
 
 If you'd like to get in touch with me, feel free to drop me an email <a href="mailto:{{site.email}}" >

@@ -3,6 +3,8 @@ layout: post
 title:  "My Code Club Year"
 date:   2017-12-24 14:30:01 +0100
 categories: [codeClub]
+image : /files/images/logo-codeclub.png
+section: Blog
 ---
 
 As the year comes to an end, I've been thinking about the three code clubs I've run this year (and how fun they've been). My first was an intermediate club (which I wrote about [back in August](/codeclub/2017/08/01/codeClub.html)) working throuhg the Module 2 projects. Then I ran both a beginner (Module 1) and an intermediate club over the last few months. All three of these were hosted by Alex at the [York Explore Library](https://www.exploreyork.org.uk) <a href="https://twitter.com/YorkLibrariesUK">
