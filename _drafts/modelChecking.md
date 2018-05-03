@@ -2,7 +2,7 @@
 layout: post
 title:  "Model Checking"
 date:   2018-04-27 19:30:01 +0100
-categories: introducing
+categories: ['introducing' , 'model checking']
 ---
 
 ## What Is Model Checking?
@@ -15,7 +15,7 @@ categories: introducing
 
 SPIN stands for `Simple Promela Interpreter`
 
-* Input language:  Promela (*Pro*cess *Me*ta *La*guage)
+* Input language:  Promela (*Pro* cess *Me* ta *La* guage)
 * Asynchronous non-deterministic autonoma
 * Linear Temporal Logic (LTL) properties
 
@@ -35,7 +35,7 @@ FDR stands for Failures Divergences Refinement. CSP-Specific model checker
 * CSP process algebra, and tockCSP sections. Also has some formal programming concepts thrown in.
 * Really a _refinement_ checker, to the properties are specified in CSP as well
     - Also includes basic checks for deadlock, divergence, and non-determinism
-  
+
 
 ### ProB/ProZ
 
@@ -45,4 +45,3 @@ Model checker for B (and Z) notations.
     - Z specifications are converted into B-Machines
 * State-Based systems
 * Checks for deadlock...etc?
-
