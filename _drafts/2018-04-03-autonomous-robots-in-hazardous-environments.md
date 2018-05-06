@@ -24,7 +24,7 @@ In essence, an __autonomous__ robot is one that can make decisions for itself. W
 
 
 The robots we're going to use need autonomy to be able to naviagte their particular hazardous environment, which might change quickly or not be fully mapped beforehand.
-They also need to be autonomous so that they can do their job, which might involve 
+They also need to be autonomous so that they can do their job, which might involve
 
  Robotcs in the nuclear industry
 
@@ -48,4 +48,19 @@ Sending teams of robots out to sea brings a different set of challenges. These r
 Robots are already helping us to explore [Mars](https://mars.nasa.gov/mer/home/) and this seems to be a good idea for exploring space. Since humans need air to breath, space isn't a great place to try and work. When we go into space we need a lot of protective equipment to stay ~safe~ alive. Another problem is the communications delay between earth and the robot, which makes tele-oporation difficult or impossible. The delay between Earth and the Moon is about 1.3 seconds, but the delay between here and Mars is about 3 minutes! If we can tell that our robot is going to fall down a hole and it doesn't stop until 3 minutes __after__ we've told it to, our robot's going in the hole!
 
 
-## Proving Safety
+## Verififyig Safety
+
+* Safety Properties
+    - Taken from the design or regulators
+    - shown by verification techniques: testing, simulation, formal methods
+* Testing
+    - runs a program and checks that its output matches the expected output
+    - only one run of the program
+* Simulation
+    - simulates the physical environment of the system and run the program
+    - checks that the behaviour is as expected
+    - again, one runs
+* Formal methods
+    - unambiguous language, mathematically described
+    - logical methods to check the whole program
+    - Often more abstract, so have to check assumptions/abstractions to link back to program
