@@ -39,7 +39,7 @@ This table shows a quick summary of the model-checking tools, the languages used
 
 ### SPIN
 
-[SPIN](http://spinroot.com) stands for `Simple Promela Interpreter`, using temporal logics.
+[SPIN](http://spinroot.com) stands for "Simple Promela Interpreter", using temporal logics.
 
 * Model language: Promela (*Pro* cess *Me* ta *La* guage)
     - Asynchronous non-deterministic automata
