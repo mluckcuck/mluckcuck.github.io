@@ -23,7 +23,7 @@ This table shows a quick summary of the model-checking tools, the languages used
 | [UPPAAL](http://www.uppaal.org/) | Timed automata | variants of TCTL and MITL |
 | [FDR](https://www.cs.ox.ac.uk/projects/fdr/) | CSPm | CSPm |
 | [ProB/ProZ](https://www3.hhu.de/stups/prob/index.php/The_ProB_Animator_and_Model_Checker) | B or Z | LTL |
-| [Java Pathfinder](https://github.com/javapathfinder/jpf-core/wiki) | Java | - |
+| [Java Pathfinder](https://github.com/javapathfinder/jpf-core/wiki) | Java | Java |
 
 
 ### NuSMV
