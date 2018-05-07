@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Model Checking Cheat Sheet"
-date:   2018-05-07 17:00:01 +0000
-categories: ['model checking']
+date:   2018-05-07 17:10:01 +0000
+categories: [modelChecking]
+section: Blog
 ---
 
 This is a quick cheat sheet for the various model checkers that I come into contact with. It is by no means exhaustive and might be added to later. I regularly found myself looking up this information to remind myself which model-checkers do what and using which languages to describe their models and specify their properties. Writing it down in one place seemed like a good idea.
@@ -15,7 +16,7 @@ Model checking is a technique for verifying is a system is a _model_ for a formu
 
 This table shows a quick summary of the model-checking tools, the languages used to describe the models, and the languages used to specify their properties.
 
-| Tool        | Model Language           | Property Language  |
+| Tool        | Model Language   | Property Language  |
 | :------------- |:-------------:|: -----:|
 | [NuSMV](http://nusmv.fbk.eu/) | Binary Decision Diagrams |  LTL or CTL |
 | [SPIN](http://spinroot.com) | Promela  | LTL |
