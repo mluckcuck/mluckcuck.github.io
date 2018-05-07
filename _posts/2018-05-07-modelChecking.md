@@ -16,7 +16,7 @@ Model checking is a technique for verifying is a system is a _model_ for a formu
 This table shows a quick summary of the model-checking tools, the languages used to describe the models, and the languages used to specify their properties.
 
 | Tool        | Model Language           | Property Language  |
-| :------------- |:-------------:| -----:|
+| :------------- |:-------------:|: -----:|
 | [NuSMV](http://nusmv.fbk.eu/) | Binary Decision Diagrams |  LTL or CTL |
 | [SPIN](http://spinroot.com) | Promela  | LTL |
 | [PRISM](http://www.prismmodelchecker.org/) | Markov chains or probabilistic timed automata | Custom language subsuming various probabilistic temporal logics|
