@@ -53,3 +53,7 @@ Downlod: <a href="https://doi.org/10.1007/978-3-319-33693-0_15">http://doi.org/1
 Downlod: <a href="/files/presentations/CJ4ES_modellingSscjL2InCircus.pdf" download > <button type="button" > Slides </button> </a>
 + Efficient Model Checking in FDR <br>
 Downlod: <a href="/files/presentations/efficientModelChecking.pdf" download > <button type="button" > Slides </button> </a>
++ Using _Circus_ to Verify Safety-Critical Java Level 2 Programs <br>
+Downlod: <a href="/files/presentations/verificationGroup.pdf" download > <button type="button" > Slides </button> </a>
+
+
