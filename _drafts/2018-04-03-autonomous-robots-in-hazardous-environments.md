@@ -8,9 +8,9 @@ section: Blog
 
 I work as a Research Assistant in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the University of Liverpool. I'm working on the Autonomous Robots in Hazardous Environments project -- details of the EPSRC grant can be found [here](https://www.epsrc.ac.uk/funding/calls/raihubs/).
 
-The project combines three separate, but related, 'hubs'. Each hub focusses on autonomous robots in a different hazardous environment: [nuclear](http://rainhub.org.uk/), [offshore](https://orcahub.org/), and [space](http://cgi.csc.liv.ac.uk/~michael/FAIR-SPACE-Hub/). Each of these environments is dangerous, so we'd like to improve the robotics used in these environments to reduce the risk to the people who work there. This involves robots that can be __autonomous__ and proved to be __safe__.
+The project combines three separate, but related, 'hubs'. Each hub focusses on autonomous robots in a different hazardous environment: [nuclear](http://rainhub.org.uk/), [offshore](https://orcahub.org/), and [space](http://cgi.csc.liv.ac.uk/~michael/FAIR-SPACE-Hub/). The jobs in each of these scenarios are dull, dirty, dangerous, or distant; sometimes a combination of these. The dull jobs lead to mistakes, the dangerous and dirty jobs are bad for us to do, and the distant jobs make usual remote controlled robots difficult or impossible to use. To reduce the monotony and risk to the people working in these areas, and to improve what the robots can do, our project is about building robots that can be __autonomous__ and proved to be __safe__.
 
-In this little article, I'm going to answer the following questions:
+In this article, I'm going to answer the following questions:
 * What are __autonomous__ robots?
 * Why would we want to use them in these 'hazardous environments'?
 * How do we prove that they're __safe__?
@@ -49,6 +49,9 @@ Robots are already helping us to explore [Mars](https://mars.nasa.gov/mer/home/)
 
 
 ## Verififyig Safety
+
+[//]: # (Too Big)
+
 
 * Safety Properties
     - Taken from the design or regulators
