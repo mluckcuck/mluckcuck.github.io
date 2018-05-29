@@ -27,7 +27,7 @@ Child and Teenage Education
 
 I volunteer with a local [Code Club](https://www.codeclub.org.uk), helping children to learn basic programming and computational thinking, using [Scratch](https://scratch.mit.edu/about). I find Scratch a useful language for teaching children programming, because it only allows blocks of code to fit together in a grammatically correct way. This focusses debugging on the _logic_ of the program rather than the syntax of the language.
 
-I also taught children (ranging from 8-14) basic programming skills with York Maker Hub (which has sinced closed). We ran sessions that allowed the children to build and program various projects on a variety of platforms, including Scratch, Makey Makey, and Lego Mindstorms.
+I also taught children (ranging from 8-14) basic programming skills with <a href="https://twitter.com/yorkmakerhub">York Maker Hub <i class="fa fa-twitter-square fa-1x"></i></a> (which has sinced closed). We ran sessions that allowed the children to build and program various projects on a variety of platforms, including [Scratch](https://scratch.mit.edu/about), [Makey Makey](https://makeymakey.com/), and [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms/).
 
 
 Private Tutoring
