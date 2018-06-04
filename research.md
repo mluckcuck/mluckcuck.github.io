@@ -6,6 +6,19 @@ section: Research
 
 ---
 
+### Academic Profiles
+
+Feel free to look at my publication or review record on any of the following sites.
+
+Profiles:  <a href="http://orcid.org/{{ site.orcid_username }}"><img alt="ORCID logo" src="/files/logos/orcid_32x32.png" width="32" height="32"/></a>
+  <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}"><img alt="researchgate logo" src="/files/logos/RG_square_green.png" width="32" height="32" /></a>
+  <a href="https://liverpool.academia.edu/{{ site.academiaEdu_username }}"> <img alt="academia.edu logo" src="/files/logos/academia-logo.png" width="32" height="32" /></a>
+ <a href="https://scholar.google.co.uk/citations?user={{site.scholar_username}}"><img alt="google scholar Logo" src="/files/logos/gscholar32x32.png" width="32" height="32" /></a>
+ <a href="https://publons.com/a/{{ site.publons_username }}"><img alt="Publons Logo" src="/files/logos/blue_white_shadow.png" width="32" height="32" /></a>
+ <a href="http://dblp.uni-trier.de/pers/hd/l/{{site.dblp_username}}"><img alt="DBLP Logo" src="/files/logos/dblp2.png" width="32" height="32" /></a>
+
+
+
 ## Autonomous Robots in Hazardous Environments
 
 I'm Research Assistant in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the University of Liverpool, where I'm working on the Autonomous Robots in Hazardous Environments project -- details of the EPSRC grant can be found [here](https://www.epsrc.ac.uk/funding/calls/raihubs/). I am working on three separate, but related, hubs. Each hub focusses on a different hazardous environment: [nuclear](http://rainhub.org.uk/), [offshore](https://orcahub.org/), and [space](http://cgi.csc.liv.ac.uk/~michael/FAIR-SPACE-Hub/).
@@ -55,5 +68,3 @@ Downlod: <a href="/files/presentations/CJ4ES_modellingSscjL2InCircus.pdf" downlo
 Downlod: <a href="/files/presentations/efficientModelChecking.pdf" download > <button type="button" > Slides </button> </a>
 + Using _Circus_ to Verify Safety-Critical Java Level 2 Programs <br>
 Downlod: <a href="/files/presentations/verificationGroup.pdf" download > <button type="button" > Slides </button> </a>
-
-

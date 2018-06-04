@@ -23,27 +23,36 @@ If you'd like to get in touch with me, feel free to drop me an email <a href="ma
 
   <li>
     <a href="https://orcid.org/{{ site.orcid_username }}">
-      <a href="http://orcid.org/{{ site.orcid_username }}"><img alt="ORCID logo" src="http://orcid.org/sites/default/files/images/orcid_32x32.png" width="32" height="32"/> https://orcid.org/{{ site.orcid_username }}</a>
+      <img alt="ORCID logo" src="/files/logos/orcid_32x32.png" width="32" height="32"/> https://orcid.org/{{ site.orcid_username }}
     </a>
   </li>
 
 
   <li>
     <a href="https://liverpool.academia.edu/{{ site.academiaEdu_username }}">
-      <img alt="academia.edu logo" src="https://a.academia-assets.com/images/academia-logo-redesign-2015-A.svg" width="32" height="32" /> https://york.academia.edu/{{ site.academiaEdu_username }}
+      <img alt="academia.edu logo" src="/files/logos/academia-logo.png" width="32" height="32" /> https://york.academia.edu/{{ site.academiaEdu_username }}
     </a>
   </li>
 
   <li>
     <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
-      <img alt="researchgate logo" src="/files/images/RG_square_green.png" width="32" height="32" /> https://www.researchgate.net/profile/{{ site.researchgate_username }}
+      <img alt="researchgate logo" src="/files/logos/RG_square_green.png" width="32" height="32" /> https://www.researchgate.net/profile/{{ site.researchgate_username }}
     </a>
   </li>
 
 
   <li>
     <a href="https://scratch.mit.edu/users/{{ site.scratch_username }}">
-      <img alt="Scratch Cat Logo" src="/files/images/scratchS.png" width="32" height="32" /> https://scratch.mit.edu/users/{{ site.scratch_username }}
+      <img alt="Scratch Cat Logo" src="/files/logos/scratchS.png" width="32" height="32" /> https://scratch.mit.edu/users/{{ site.scratch_username }}
     </a>
   </li>
+
+  <li>
+    <a href="https://publons.com/a/{{ site.publons_username }}">
+      <img alt="Publons Logo" src="/files/logos/blue_white_shadow.png" width="32" height="32" /> publons.com/a/{{ site.publons_username }}
+    </a>
+  </li>
+
+
+
   </ul>
