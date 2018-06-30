@@ -38,7 +38,7 @@ publons_username: 1498270
 markdown: kramdown
 theme: minima
 
-gems: ['jekyll/scholar', 'jekyll-feed']
+#gems: ['jekyll/scholar', 'jekyll-feed']
 
 
 scholar:
