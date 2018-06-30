@@ -39,10 +39,6 @@ A copy of my PhD thesis can be found on the [White Rose repository](http://ethes
 
 You can find external lists of my publications on my [dblp](http://dblp.uni-trier.de/pers/hd/l/{{site.dblp_username}}) page or my [google scholar](https://scholar.google.co.uk/citations?user={{site.scholar_username}}) page. My thesis work produced the list of publications below, which also shows links to the papers and slide (where available).
 
-here
- <script src="http://bibbase.org/show?bib={{ site.url }}files/bib/msl.bib&jsonp=1"></script>
-
-
 {% comment %}
 Uncomment this to generate new bibliography, then copy html in below. Careful of [slide] links
 {% bibliography --file msl.bib%}
