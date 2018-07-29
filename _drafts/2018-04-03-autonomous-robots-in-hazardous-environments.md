@@ -62,3 +62,5 @@ A crucial question for all of these methods is 'what am I checking for?' Somethi
 
 
 ## Putting It All Together
+
+[Do It]
