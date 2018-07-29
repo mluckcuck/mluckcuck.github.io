@@ -47,31 +47,18 @@ Each of these three environments is hazardous, both to humans and to the robots.
 
 ## Safe Robotics
 
-[//]: # (Too Big)
+Because the robots we're looking at are going to operate in dangerous places, away from human control, we want to make sure that they behave as designed. We need to make sure that the program controlling the robot acts safely; for example, this can mean not damaging things or people around it, or not damaging itself. Essentially this involves compring the program to the design. I'm going to describe three ways of doing this with robots:
+* testing,
+* simulation,
+* and formal methods.
+
+Testing a robot can mean running just the program that controls the robot, or a __field__ test where the actual robot is used as well. Both involve comparing the expected behaviour with the actual behaviour. Becasue this is done with the actual program or robot, the link between the results of testing and the final system are pretty close. However, testing can take a lot of time becasue each test is only one possible path through the program. Also, a field tests might damage the robot, things around it, or hurt people.
+
+Running the program but __simulating__ the robot and its physical environment avoids the potential damage of a field test, and lets us test the robot in unusual situations. The idea here is the same as with testing: run the program and compare its behaviour to the expected behaviour. But it has the same problem as testing: each simulation run is only one path through the program, so it can be time-consuming trying to cover as much of the program as possible. We also have to make sure that the simulation is realistic enough. Sometimes the robot's program can be used directly in a simulator; but if we have to alter the program, then the link between the results of simulation and the bahviour of the final system might be a little less convincing.
+
+Finally, formal methods use unambiguously defined languages and logical methods to check the whole program, not just one run. However, this sometimes means some extra work up front. This often can't be done on the program (though there are exceptions to this) so we build a simpler model of the program to work on. making sure that this model actually represents the program is a key weak point of this approach; the model can be safe but if it does not represent the final system, then the final system might not be safe.
+
+A crucial question for all of these methods is 'what am I checking for?' Somethings we need to check are programing errors; the program not doing what we want but doing what we __told__ it to do. Other checks are for things that the robot should or shouldn't do. These are often to do with the environment -- for example our Mars rover shouldn't fall into holes -- but also come from regulation authorities -- for example rules about the default direction that aircraft must turn. Ultimatly, what we need to check for depends on the situation, but checking the right things about our robot is very important when trying to show that it is safe.
 
 
-* Safety Properties
-    - Taken from the design or regulators
-    - shown by verification techniques: testing, simulation, formal methods
-* Testing
-    - runs a program and checks that its output matches the expected output
-    - only one run of the program
-* Simulation
-    - simulates the physical environment of the system and run the program
-    - checks that the behaviour is as expected
-    - again, one runs
-* Formal methods
-    - unambiguous language, mathematically described
-    - logical methods to check the whole program
-    - Often more abstract, so have to check assumptions/abstractions to link back to program
-
-
-Because the robots we're looking at are going to operate in dangerous places, away from human control, we want to make sure that they behave as designed. We need to make sure that the program controlling the robot acts safely; for example, this can mean not damaging things around it or not damaging itself. Essentially this is involves compring the program to the design. I'm going to describe three ways of doing this with robots: testing, simulation, and formal methods.
-
-Testing a robot can mean running just the program, or a __field__ test where the physical robot is used. Both involve comparing the behaviour of the program or the robot with the expected behaviour. Becasue this is done with the actual program or robot, the link between the results of testing and the final system are pretty close. However, testing can take a lot of time. Each test is only one possible behaviour of the system. Also, field tests could potentially damage the robot or things around it.
-
-Running the program but simulating the robot and its physical environment avoids the potential damage of field tests, and enable you to test the robot ins situations that are difficult to get at physically. The idea here is the same as with testing: run the program and compare its behaviour to the expected behaviour. But it has the same problem as testing: each simulation run is one path through the program, so it can be time-consuming. Another problem is how realistic the simulation is and if you have to alter the program to use it in the simulation, then the link between the results of simulation and the bahviour of the final system might be a little less convincing.
-
-Finally, Formal Methods use unambiguously defined languages and logical methods to check the whole program, not just one run. However, this requires some extra work up front. This often can't be done on the program (though there are exceptions to this) and requires a more abstract model of the system, which is then checked for the expected behaviour. The link between this abstract model and the final system is a key weak point of this approach; the model can be safe but the final system might not represent the model well enough.
-
-Testing and simulation are used a lot when verifying robots, but Formal Methods also have some applications here. My work is about using Formal Methods, but not to the exclusion of other techniques. A holistic approach will be the most practical and be the most conviincg to the public and the regulators.
+## Putting It All Together
