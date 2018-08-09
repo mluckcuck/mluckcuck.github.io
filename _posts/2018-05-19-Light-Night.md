@@ -54,13 +54,13 @@ Before the doors opened at 5pm, me, [Ruchi](https://en.wikipedia.org/wiki/Ruchi_
 And [Ada](https://en.wikipedia.org/wiki/Ada_Lovelace) was off searching for water:
 ![Picture of a Lego Rover searching for water (by detecting a blue surface)]({{ site.url }}/files/images/lightNight5.png "Lego Rover searching for water")
 
-Using these robots, and the programs built my Dr Louise Dennis, I got to explain to curious minds -- both young and old -- how and why robotics research is focussing on artificial intelligence that can __explain__ why it made a particular decision. Lots of people got to remote control the robots, then I added in a delay of 1.3 seconds to simulate their robot being on the moon. Seeing how much more difficult this was, we got to talk about how we program __autonomous__ robots, which can make some choices for themselves. I also got to discuss parts of my research, which looks at ways of verifying the programs before we put them on the robot.
+Using these robots, and the programs built Dr Louise Dennis, I got to explain to curious minds -- both young and old -- how and why robotics research is focussing on artificial intelligence that can __explain__ why it made a particular decision. Lots of people got to remote control the robots, then I added in a delay of 1.3 seconds to simulate their robot being on the moon. Seeing how much more difficult this was, we got to talk about how we program __autonomous__ robots, which can make some choices for themselves. I also got to discuss parts of my research, which looks at ways of verifying the programs before we put them on the robot.
 
 A lot of people asked about the practical applications of autonomous robotics. The work I'm involved in is looking at nuclear decommissioning, robots going offshore, and robots on other planets; all hazardous situations for humans, so putting robots there instead helps keep us safer. Autonomous systems are also being developed for driverless cars. Obviously with the sorts of problems in recent news reports about driverless cars, the technology still needs more development before it's ready to cope with driving on the roads.
 
 I was really pleased at how enthusiastic, curious, and insightful the visitors were. So many people wanted to know more about artificial intelligence and robotics. It made it very easy to stay up-beat late into the night.
 
-As well as the Lego Rovers activity and the research I'm involved in, I also got to talk about:
+As well as the [Lego Rovers](http://legorovers.csc.liv.ac.uk/) activity and the research I'm involved in, I also got to talk about:
 
 * NASA's Mars Rovers (I'd highly recommend looking through the pictures from <a href="https://twitter.com/MarsRovers ">Spirit <i class="fa fa-twitter-square fa-1x"></i></a> and <a href="https://twitter.com/MarsCuriosity">Curiosity <i class="fa fa-twitter-square fa-1x"></i></a>)
 * [Flying Drones on Mars](https://www.wired.com/2015/01/nasas-working-helicopter-thatll-fly-mars/)
@@ -76,4 +76,4 @@ As well as the Lego Rovers activity and the research I'm involved in, I also got
 
 I had a lot of fun, but I *definitely* need to rest my voice for a day or two!
 
-My thanks go to the staff at Sensor City, who kept me in tea and popcorn for the night, and to David Copley from [LCR4.0](http://lcr4.uk/) who helped my take the kit back to the office after the event!
+My thanks go to the staff at [Sensor City](http://www.sensorcity.co.uk/), who kept me in tea and popcorn for the night, and to David Copley from [LCR4.0](http://lcr4.uk/) who helped my take the kit back to the office after the event!
