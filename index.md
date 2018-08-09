@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img alt="Matt Luckcuk at PhD Graduation 2017" style="float: right; class='img-responsive'" src="/files/images/gradPicture.png">
+<img alt="Matt Luckcuk at PhD Graduation 2017" style="float: right" class="img-responsive" src="/files/images/gradPicture.png">
 
 I'm a Research Assistant in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the University of Liverpool. I got my PhD in Computer Science from the [University of York](https://www.cs.york.ac.uk/). More details of my thesis, publications, and current project can be found on the [Research](/research/) page.
 
