@@ -3,7 +3,7 @@ layout: post
 title:  "Plants and Privacy"
 date:   2018-08-05 16:06:19 +0000
 categories: [gardening, tech]
-image: /files/images/balcony.png
+image: /files/images/gardenPost.png
 section: Blog
 ---
 
