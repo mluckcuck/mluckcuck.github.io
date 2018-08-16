@@ -65,7 +65,7 @@ The other option I considered was [Firefox](https://www.mozilla.org/en-GB/firefo
 
 The [guide](https://restoreprivacy.com/firefox-privacy/) pointed me to two websites that check your browser's uniqueness (the more unique your browser setup, the easier ~~it~~ you are to track, for more information see [this](https://restoreprivacy.com/browser-fingerprinting/) article):
 
-* [Am I Unique}(https://amiunique.org/fp), and
+* [Am I Unique](https://amiunique.org/fp), and
 * [Panopticlick](https://panopticlick.eff.org);
 
 which I'm using to gently check if any of the setting and extensions actually make any difference.  
