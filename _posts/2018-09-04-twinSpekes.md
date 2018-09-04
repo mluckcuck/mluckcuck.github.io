@@ -57,6 +57,6 @@ I got to talk about:
 * Computing education for children, and
 * My [own research](/research/) at the University of Liverpool.
 
-At the end of the two days, we asked Alys to take our picture; we all trooped through to the Great Hall, a worthwhile walk.
+At the end of the two days, we asked Alys to take a picture of the Lego Rovers and their Wrangler, so we all trooped through to the Great Hall.
 ![A of Farah, Louise, Matt, Mohammad, and Xia (left to right) on the Great Hall at Speke Hall, each holding a Lego Rover]({{ site.url }}/files/images/spekeHall5.png "Lego Rovers and their Wranglers")
 I'm in the middle, holding Ada because she's my favourite. 
