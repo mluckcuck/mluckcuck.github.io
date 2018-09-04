@@ -45,7 +45,7 @@ Uncomment this to generate new bibliography, then copy html in below. Careful of
 {% endcomment %}
 
 <ul class="bibliography">
-<li><span id="Farrell2018">Farrell, M., Luckcuck, M., and Fisher, M. (2018). Robotics and Integrated Formal Methods: Necessity meets Opportunity. In <i>Integrated Formal Methods</i> [Accepted]. <a href="http://arxiv.org/abs/1805.11996"> http://arxiv.org/abs/1805.11996 </a> <br>
+<li><span id="Farrell2018">Farrell, M., Luckcuck, M., and Fisher, M. (2018). Robotics and Integrated Formal Methods: Necessity meets Opportunity. In <i>Integrated Formal Methods</i>  IFM 2018. Lecture Notes in Computer Science, vol 11023. <a href="https://doi.org/10.1007/978-3-319-98938-9_10"> https://doi.org/10.1007/978-3-319-98938-9_10 </a> <br>
 Download: <a href="https://arxiv.org/pdf/1805.11996" download ><button type="button" > Paper </button></a>
 
 </span></li>
