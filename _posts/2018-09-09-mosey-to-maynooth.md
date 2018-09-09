@@ -83,4 +83,5 @@ As with all conferences I got to talk to lots of interesting people and see them
 ...who seems to following me (or is it the other way around?)
 
 All in all, it was definitely worth the trip!
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+<script id="twitter-wjs" type="text/javascript" async defer src="//platform.twitter.com/widgets.js"></script>
