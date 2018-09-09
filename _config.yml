@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mluckcuck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MattLuckcuck
-
+images: https://mluckcuck.github.io/files/images/
 
 bitbucket_username: ml881
 orcid_username : 0000-0002-6444-9312
