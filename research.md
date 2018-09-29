@@ -45,8 +45,7 @@ Uncomment this to generate new bibliography, then copy html in below. Careful of
 
 <ul class="bibliography">
 <li><span id="Farrell2018">Farrell, M., Luckcuck, M., and Fisher, M. (2018). Robotics and Integrated Formal Methods: Necessity meets Opportunity. In <i>Integrated Formal Methods</i>  IFM 2018. Lecture Notes in Computer Science, vol 11023. <a href="https://doi.org/10.1007/978-3-319-98938-9_10"> https://doi.org/10.1007/978-3-319-98938-9_10 </a> <br>
-Download: <a href="https://arxiv.org/pdf/1805.11996" download ><button type="button" > Paper </button></a>
-
+Download: <a href="https://arxiv.org/pdf/1805.11996" download ><button type="button" > Paper </button></a><a href="/files/presentations/RAS-iFM.pdf" download ><button type="button" > Slides </button></a><a href="/files/bib/Farrell2018.bib" download ><button type="button" > Bibtex </button></a>
 </span></li>
 
 <li><span id="Luckcuck2016">Luckcuck, M., Cavalcanti, A., and Wellings, A. (2016). A Formal Model of the Safety-Critical Java Level 2 Paradigm. In <i>Proceedings of the 12th International Conference on Integrated Formal Methods - Volume 9681</i> (pp. 226–241). New York, NY, USA: Springer-Verlag New York, Inc. <a href="https://doi.org/10.1007/978-3-319-33693-0_15">http://doi.org/10.1007/978-3-319-33693-0_15</a>  <br>
