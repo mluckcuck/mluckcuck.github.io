@@ -40,6 +40,8 @@ theme: minima
 
 gems: ['jekyll/scholar', 'jekyll-feed']
 
+kramdown:
+    auto_ids: true
 
 scholar:
    #style : ieee.csl
