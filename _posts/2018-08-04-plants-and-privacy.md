@@ -20,7 +20,7 @@ I've been growing some plants on my little balcony to brighten to place up -- wi
 
 ![Picture of my planting supplies]({{ site.url }}/files/images/gardenPre.png "All present and correct. ")
 
-Planting seeds, seeing things grown, and watching the flowers open up are all really good for my mental health.
+Planting seeds, seeing things grow, and watching the flowers open up are all really good for my mental health.
 I had a wonderful morning planting:
 
 *    Peas,
@@ -37,7 +37,7 @@ But, since the morning had been relaxing...a little __too__ relaxing, I decided 
 ## Privacy
 #### (Now that I've lured you in with the gardening, here's the tech)
 
-I've started a little quest to try and improve my privacy online (not such a relaxing task). 
+I've started a little quest to try and improve my privacy online (not such a relaxing task).
 
 (Also, note that this is just my choices of online privacy and security. I'm not saying these are the __best__ options.)
 
@@ -72,9 +72,9 @@ which I'm using to gently check if any of the setting and extensions actually ma
 
 [Firefox](https://www.mozilla.org/en-GB/firefox/) has a large library of other extensions, including [unpaywall](http://unpaywall.org/),[Kopernio](https://kopernio.com/), and various security/privacy extensions. Plus, it has its own synchronisation feature. Obviously that means the data is stored with Firefox, but I think I trust them more than I trust Google now.
 
-Finally, within Firefox, I've moved to using the [Last Pass](https://www.lastpass.com/) password manager, which stores passwords in an encrypted 'vault' that you can access with a master password. I've been reusing passwords for a while now (which is **bad**, yes I know) but found the idea of resetting so many passwords quite daunting. Most password managers (including both the ones I've tried: [Last Pass](https://www.lastpass.com/) and [Bit Warden](https://bitwarden.com/) ) give you the option of generating very long random passwords, so I'm going to use that to secure some of the online accounts with a better password, stored in the password manager, which is then usable from the browser extension. 
+Finally, within Firefox, I've moved to using the [Last Pass](https://www.lastpass.com/) password manager, which stores passwords in an encrypted 'vault' that you can access with a master password. I've been reusing passwords for a while now (which is **bad**, yes I know) but found the idea of resetting so many passwords quite daunting. Most password managers (including both the ones I've tried: [Last Pass](https://www.lastpass.com/) and [Bit Warden](https://bitwarden.com/) ) give you the option of generating very long random passwords, so I'm going to use that to secure some of the online accounts with a better password, stored in the password manager, which is then usable from the browser extension.
 
-I'm already familiar with Firefox, so the transfer hasn't been too tricky; we'll see how things go with the password manager. 
+I'm already familiar with Firefox, so the transfer hasn't been too tricky; we'll see how things go with the password manager.
 
 
 ### Search
@@ -111,5 +111,3 @@ Honestly, I don't think I'll be moving away from my gmail account, not entirely,
 And after some perusing, I've signed up for a (free, for now) account with [Tutanota](https://tutanota.com/). Based in Germany, and with a named formed of the Latin words for 'Secure' and 'Message', Tutanota give me 1GB of storage for emails, a nifty Web client, and the option to send end-to-end encrypted emails or not. The end-to-end encryption looks like it works best if the recipient also has a Tutanota email account; if they don't then they get an auto-generated email giving them a link to a page that asks them to provide a password (which is specified by the sender) to access the email. Even if you send an unencrypted email, your version (the version on Tutanota's servers) stays encrypted -- which is nice.
 
 As I said, I'll be keeping my Gmail account for now. But I think this new account will be useful for things I want to keep more private and secure.
-
-
