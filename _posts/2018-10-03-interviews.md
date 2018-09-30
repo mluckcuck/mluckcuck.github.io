@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Year of Job Interviews"
-date:   1918-10-03 16:06:19 +0000
+date:   2018-10-01 11:06:19 +0000
 categories: [job-hunt]
 section: Blog
 ---
