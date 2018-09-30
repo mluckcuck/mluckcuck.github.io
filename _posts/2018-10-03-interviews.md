@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Year of Job Interviews"
-date:   1918-10-01 11:06:19 +0000
+date:   2018-10-01 11:06:19 +0000
 categories: [job-hunt]
 section: Blog
 ---
@@ -35,9 +35,9 @@ My interview was with the academic offering the job and a Professor in the same 
 
 Since I didn't get the research job I'd interviewed for, I began searching around for other options. Company 1 were offering a job  in safety-critical systems development, so I was leaning on part of my PhD work being on safety-critical programming. During my PhD the manager of Company 1 had spoken to me about them recruiting people with my sort of background, so when I was coming to the end of my PhD I got back in touch.
 
-Company 1 is staffed by a lot of computer science graduates from my university and was close to I lived, so I thought it was a good choice. The interview was arranged, based on my experience with formal verification and safety-critical programming, and in I went.
+Company 1 is staffed by a lot of computer science graduates from my university and was close to where I lived, so I thought it was a good choice. The interview was arranged, based on my experience with formal verification and safety-critical programming, and in I went.
 
-Looking back on it, being interviewed for a job without a job description was a bad idea (one that I'll repeated before the year was out) but I (naively) thought it meant that they wanted me and my skills.
+Looking back on it, being interviewed for a job without a job description was a bad idea (one that I repeated before the year was out) but I (naively) thought it meant that they wanted me and my skills.
 
 The interview was with the manager who I'd spoken to before, and one of the developers. It started out well, they both seemed friendly enough; but things started going wrong rather quickly.
 
@@ -95,7 +95,7 @@ They asked about my performance on the exam, how _I_ thought it went. (Killer; I
 
 We talked about my PhD and what I thought about the project that the job was on, then (lets call them Interviewer 2) took a weird line of questioning. They asked how much help in writing papers etc. I thought I would need from Interviewer 1 (my prospective boss). I thought this was a sensible question and used it as an opportunity to describe my experience in collaborating with my supervisors and writing papers. I was asked, very specifically, what I meant when I said "collaboration" and how much "writing" I had done and how much help I'd needed. (Very odd and now getting rather worrying.)
 
-After a few more minutes of probing, Interviewer 2 came to the point. They had seen two spelling mistakes in the presentation I'd given. I apologised, looked at the slide, explained that it was one I'd tweaked last night and that they were classic dyslexic spelling mistakes (I'd transposed two letters inside a word). I thought I'd reassured Interviewer 2, but Interviewer 3 had other ideas and asked about how dyslexia impacts my work. They were particularly concerned at how I knew that I'd spelt words correctly when writing papers and how I was sure that I was correct when writing programs. (Explaining that spelling mistakes in programs tend to lead to some kind of warning didn't seem to be an acceptable answer.) They comments seemed to suggest that I probably shouldn't be programming, if dyslexia was causing that much hassle for me.
+After a few more minutes of probing, Interviewer 2 came to the point. They had seen two spelling mistakes in the presentation I'd given. I apologised, looked at the slide, explained that it was one I'd tweaked last night and that they were classic dyslexic spelling mistakes (I'd transposed two letters inside a word). I thought I'd reassured Interviewer 2, but Interviewer 3 had other ideas and asked about how dyslexia impacts my work. They were particularly concerned at how I knew that I'd spelt words correctly when writing papers and how I was sure that I was correct when writing programs. (Explaining that spelling mistakes in programs tend to lead to some kind of warning didn't seem to be an acceptable answer.) Their comments seemed to suggest that I probably shouldn't be programming, if dyslexia was causing that much hassle for me.
 
 I left the interview with the impression that I wasn't getting that job, but I wasn't feeling too bad about myself. I was pretty annoyed at the implications about dyslexia, though.
 
@@ -113,7 +113,7 @@ Now, Interviewer 3 had also wanted me to do a programming test, because the job 
 
 So, given an unfamiliar laptop with an unfamiliar setup I was left in the room for (I think) half an hour to panic and attempt as much of it as I could. The results of this part of the exam were worse than before. My mind went quite blank when it came to the written design, and the unfamiliar laptop setup left me struggling to remember the right commands for the program.
 
-Fumbling into the interview section, which I'd had only about a week to prepare for, I was already on the back-foot. The Skyper didn't seem interested in my PhD work, and everyone seemed concerned that my poor exam result didn't bode well for future performance. I could tell that no one was particularly likely to give me the job; I just waited it out, answering ass best I could.
+Fumbling into the interview section, which I'd had only about a week to prepare for, I was already on the back-foot. The Skyper didn't seem interested in my PhD work, and everyone seemed concerned that my poor exam result didn't bode well for future performance. I could tell that no one was particularly likely to give me the job; I just waited it out, answering as best I could.
 
 Once the interview was over, I was almost certain that I wasn't getting this job. The panic in the practical exam, and these two rejections in a few weeks, had left me thinking that I wasn't suited to programming or academia.
 
@@ -129,7 +129,7 @@ This interview was great -- as far as interviews go. I'd become very used to sta
 
 I came away from this interview buoyed and confident, happy that I'd done well. If I didn't get the job, at least I'd done my best at the interview. They very quickly offered me the job and I had a lot of fun putting together the course and teaching it. Feel free to [download](/files/Computer_Coding_For_Beginners.zip) the content of this course.
 
-It as unfortunate that it was only a part-time job, it also didn't start until the next term. So, my job hunt continued.
+It was unfortunate that it was only a part-time job, it also didn't start until the next term. So, my job hunt continued.
 
 ## Company 3
 
@@ -207,8 +207,10 @@ I felt so at ease that I remember making a joke or two -- I can't remember what 
 
 All in all, I came away very positive and floaty. I took a little walk around the area of the university and took some touristy pictures, before my bus home arrived. I was very happy about the interview, and even happier when an email arrived from them:
 
+<figure>
 ![Acceptance Email from University 4]({{site.url}}/files/images/university4Accept.png)
-
+<figurecaption>Acceptance email from Universtiy 4</figurecaption>
+</figure>
 I'd like to think that I can separate the joy of being offered the job from the experience of the interview itself, and that this interview (regardless of the outcome) was the best I had in that 12 months. I remember feeling like that, even before the reply email, so I'm fairly confident that it was the best interview experience I've had so far.
 
 ## Summary
