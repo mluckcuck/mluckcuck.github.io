@@ -3,7 +3,7 @@ layout: post
 title:  "iFM 2018: Mosey to Maynooth"
 date:   2018-09-09 16:06:19 +0000
 categories: [research]
-image: /files/images/.png
+image: /files/images/ifmCampus3.png
 section: Blog
 ---
 
@@ -83,5 +83,5 @@ As with all conferences I got to talk to lots of interesting people and see them
 ...who seems to following me (or is it the other way around?)
 
 All in all, it was definitely worth the trip!
-  
+
 <script id="twitter-wjs" type="text/javascript" async defer src="//platform.twitter.com/widgets.js"></script>
