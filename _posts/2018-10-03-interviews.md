@@ -3,6 +3,7 @@ layout: post
 title:  "A Year of Job Interviews"
 date:   2018-10-01 11:06:19 +0000
 categories: [job-hunt]
+permalink: /jobHuntPost
 section: Blog
 ---
 It's the political party conference season here in the UK. (Yay! Ok, now calm down.)
