@@ -178,7 +178,7 @@ The ~~interview~~ "chat" wasn't too long, but I was left feeling fairly confiden
 
 University 1 again, right back to the start.
 
-This time is was a **teaching** job at University 1. The job description was very broad, because the department just needed a gang of new teaching staff. The job was one step below being a [lecturer](https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_Kingdom), designed to be an introductory role for those new to university teaching.
+This time is was a **teaching** job at University 1. The job description was very broad, because the department just needed a gang of new teaching staff. The job was one step below being a [lecturer](https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_Kingdom#Overview), designed to be an introductory role for those new to university teaching.
 
 The job description mentioned that the teaching timetable would be lighter at the beginning and that there would be time for my own research. This was appealing, but also quite scary. I put together a rough research plan for my application, that continued my PhD work. I was very pleased to be offered an interview, because I didn't have any experience of running university-level courses before.
 
