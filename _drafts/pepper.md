@@ -15,6 +15,12 @@ Simply put, the explanation is too simple.
 
 The committee's questions were submitted to the team from the University of Middlesex prior to the session, and the answers were prepared. In effect, the evidence was being given __by__ the team from the university but __via__ the robot. Casting this as a robot, as an AI, giving evidence may have just been tongue in cheek; but if a person had been given the same questions, written their answers, and called the committee session by phone, then it would still be the person giving the evidence and not the phone.
 
+//some AI and Autonomous systems explanation is needed in here
+
 True, the robot is using techniques from AI to detect words in the questions and select the (pre-written) reply. However, this is not an autonomous choice of reply, so saying that the robot is giving "evidence" is very misleading.
 
 Ultimately, this was an adequate demonstration of the robot, but not a very good demonstration of AI or autonomous systems.
+
+
+//Given AI/AS descrption, point at the potential societal impacts
+
