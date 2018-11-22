@@ -89,7 +89,7 @@ Other sources of information about the project and Hubs:
 
 *  [Offshore Robotics for Certification of Assets (ORCA) Hub](https://orcahub.org/)
   - [ORCA Hub on Twitter](https://twitter.com/ORCA_Hub)
-  - [ORCAS Hub on LinkedIn](https://www.linkedin.com/company/orca-hub/)
+  - [ORCA Hub on LinkedIn](https://www.linkedin.com/company/orca-hub/)
 
 *  [Future AI and Robotics for Space (FAIR-SPACE) Hub](https://www.fairspacehub.org/)
   - [FAIR-SPACE on Twitter](https://twitter.com/fair_space_hub)
