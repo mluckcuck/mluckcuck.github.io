@@ -41,4 +41,4 @@ I have no idea why the little programmers so often delight in making games impos
 
 Sometimes, a little programmer's instinct to make impossible games can be harnessed and redirected into making a game with progressive difficulty, to make it more challenging for the player. This takes some work and concentration (not to mention more than a little decentring) so it's not always possible or appropriate for little programmers of all ages, but if it's possible then it can be very worthwhile. It challenges the little programmer to think about how to engage the player of their game and to work hard at sensibly altering their own code (without an explicit set of instructions or requirements). It also helps get a little more out of the project (which is especially useful for more advanced little programmers).
 
-All in all, I'm defineitely enjoying my time with the Code Clubs I've been running and I'm looking forward to taking on some new clubs in the new year.
+All in all, I'm definitely enjoying my time with the Code Clubs I've been running and I'm looking forward to taking on some new clubs in the new year.

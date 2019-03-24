@@ -77,7 +77,7 @@ The current ideas we're working on (at least at the University of Liverpool) are
 
 Other sources of information about our team at the University of Liverpool:
 
-*  [Autonomy and Verification Laboratory](http://cgi.csc.liv.ac.uk/~matt/AVLab/)
+*  [Autonomy and Verification Laboratory](https://autonomy-and-verification-uol.github.io/)
 *  [Centre for Autonomous Systems](https://www.liverpool.ac.uk/autonomous-systems/)
 *  [Verification Research Group](https://www.liverpool.ac.uk/computer-science/research/artificial-intelligence/verification/)
 *  [Robotics and Autonomous Systems Research Group](https://www.liverpool.ac.uk/computer-science/research/artificial-intelligence/robotics/)

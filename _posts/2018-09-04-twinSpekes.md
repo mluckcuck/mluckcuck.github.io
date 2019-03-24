@@ -34,7 +34,7 @@ We were there for two days, to run a series of workshops for family groups. Alys
 
 Some new recruits joined Louise and me: [Xia](http://cgi.csc.liv.ac.uk/~xiacui/), [Farah](http://cgi.csc.liv.ac.uk/~hsfalsha/), and [Mohammed](https://cgi.csc.liv.ac.uk/~suhaibani/); PhD students from. The computer science department. This made 5 of us; but since there were often 10 groups in each workshop, we were all kept busy.
 
-We guided the groups through the Lego Rovers activities. First, they learnt to drive the robots by remote control, then they learnt about the robot's sensors, and then adding rules to (hopefully) avoid obstacles. As always, there were some groups that had one (or more) little programmer who wanted their rover to speed forward when it sees an obtacle! (We're still waiting on several cheques for $11 billion for crashing the rover missions!)
+We guided the groups through the Lego Rovers activities. First, they learnt to drive the robots by remote control, then they learnt about the robot's sensors, and then adding rules to (hopefully) avoid obstacles. As always, there were some groups that had one (or more) little programmer who wanted their rover to speed forward when it sees an obstacle! (We're still waiting on several cheques for $11 billion for crashing the rover missions!)
 
 We had to make sure that we kept the robots charged,
 ![A picture of the Lego Rovers robots charging]({{ site.url }}/files/images/spekeHall3.png "Lego Rovers Charging")
