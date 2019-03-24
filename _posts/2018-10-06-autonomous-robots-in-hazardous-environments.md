@@ -7,7 +7,7 @@ permalink: /myJob
 section: Blog
 ---
 
-I work as a [Research Associate](https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_Kingdom) in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the University of Liverpool. I'm working on the Autonomous Robots in Hazardous Environments project [here](https://www.epsrc.ac.uk/funding/calls/raihubs/).
+I work as a [Research Associate](https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_Kingdom) in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the University of Liverpool. I'm working on the [Autonomous Robots in Hazardous Environments project](https://www.epsrc.ac.uk/funding/calls/raihubs/).
 
 The team at Liverpool is involved in three related, 'hubs'. Each hub focusses on autonomous robots in a different hazardous environment: [nuclear](http://rainhub.org.uk/), [offshore](https://orcahub.org/), and [space](https://www.fairspacehub.org/). The jobs being done in these environments might be dull or dirty; and the environments themselves are often dangerous or distant.
 
