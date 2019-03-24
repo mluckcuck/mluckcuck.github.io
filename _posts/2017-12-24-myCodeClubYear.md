@@ -7,7 +7,7 @@ image : /files/images/logo-codeclub.png
 section: Blog
 ---
 
-As the year comes to an end, I've been thinking about the three code clubs I've run this year (and how fun they've been). My first was an intermediate club (which I wrote about [back in August](/codeclub/2017/08/01/codeClub.html)) working throuhg the Module 2 projects. Then I ran both a beginner (Module 1) and an intermediate club over the last few months. All three of these were hosted by Alex at the [York Explore Library](https://www.exploreyork.org.uk) <a href="https://twitter.com/YorkLibrariesUK">
+As the year comes to an end, I've been thinking about the three code clubs I've run this year (and how fun they've been). My first was an intermediate club (which I wrote about [back in August](/codeclub/2017/08/01/codeClub.html)) working through the Module 2 projects. Then I ran both a beginner (Module 1) and an intermediate club over the last few months. All three of these were hosted by Alex at the [York Explore Library](https://www.exploreyork.org.uk) <a href="https://twitter.com/YorkLibrariesUK">
   <i class="fa fa-twitter-square fa-1x"></i></a> in the middle of York.
 
 For the two most recent clubs, we had 2 little programmers in the beginners club and 4 in the intermediate. Both me and Alex were a little disappointed with the turnout (though very pleased with the little programmers we did get in the club). My two observations regarding the turnout are that, potentially, having the club on a Saturday in the middle of York (which _sounds_) very convenient, might not have been that useful (especially near Christmas time!); and that most of the little programmers had done quite a bit of Scratch programming at school, so maybe the beginner projects were a little _too_ beginner for them.
