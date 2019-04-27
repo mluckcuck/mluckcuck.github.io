@@ -3,6 +3,7 @@ layout: post
 title:  "Hazardous Hubs: Year 1"
 date:   2019-01-13 10:30:01 +0000
 categories: research
+permalink: /hubs
 section: Blog
 ---
 

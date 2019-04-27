@@ -4,6 +4,7 @@ title:  "iFM 2018: Mosey to Maynooth"
 date:   2018-09-09 16:06:19 +0000
 categories: [research]
 image: /files/images/ifmCampus3.png
+permalink : /ifm2018
 section: Blog
 ---
 
