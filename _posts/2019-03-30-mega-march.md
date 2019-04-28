@@ -3,6 +3,7 @@ layout: post
 title:  "Mega March"
 date:   2019-03-30 16:06:19 +0000
 categories: [research]
+image: /files/images/trondheim1.png
 section: Blog
 ---
 
@@ -32,15 +33,15 @@ Finally, I got to do a little bit of sightseeing. In the half-day after the work
 
 <div style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:center" markdown="1">
 
-![View up the canal in Trondheim]({{ site.url }}/files/images/trondheim2.png )
+![View up the canal in Trondheim]({{ site.url }}/files/images/trondheim2.png "View up the canal in Trondheim")
 
-![Trondheim's Cathedral]({{ site.url }}/files/images/trondheim3.png )
+![Trondheim's Cathedral]({{ site.url }}/files/images/trondheim3.png "Trondheim's Cathedral")
 
-![The side entrance and rose window of Trondheim's Cathedral]({{ site.url }}/files/images/trondheim4.png )
+![The side entrance and rose window of Trondheim's Cathedral]({{ site.url }}/files/images/trondheim4.png "The side entrance and rose window of Trondheim's Cathedral")
 
-![A cute ship bridge over the canal in Trondheim]({{ site.url }}/files/images/trondheim5.png )
+![A cute ship bridge over the canal in Trondheim]({{ site.url }}/files/images/trondheim5.png "A cute ship bridge over the canal in Trondheim")
 
-![The canal in Trondheim, with a little snow, as the town lights up in the dark]({{ site.url }}/files/images/trondheim6.png )
+![The canal in Trondheim, with a little snow, as the town lights up in the dark]({{ site.url }}/files/images/trondheim6.png "The canal in Trondheim, with a little snow, as the town lights up in the dark")
 
 </div>
 
@@ -51,8 +52,8 @@ Next up in Mega March was a return to York, where I lived during my Master's deg
 We all went along to hear people talking about assurance, robotics, and formal methods. Also, Marie and I were presenting a tutorial of our soon-to-be-published survey of Formal Methods currently being used to tackle robotic autonomous systems -- the draft version of which is available on [arXiv](https://arxiv.org/abs/1807.00048) and if you'd like to look at the slides of our tutorial, you can download them here: <a href="/files/presentations/cyphyassureTutorialSlides.pdf" download > <button type="button" > Slides </button> </a>.
 
 First, it was fantastic to be back in York, even though it was (predictably for York) flooded!
-![The view of the flooded Ouse from Skeldergate Bridge]({{ site.url }}/files/images/yorkflood1.png)
-![The view of the Ouse flooding the Kings Arms]({{ site.url }}/files/images/yorkflood2.png)
+![The view of the flooded Ouse from Skeldergate Bridge]({{ site.url }}/files/images/yorkflood1.png "The view of the flooded Ouse from Skeldergate Bridge")
+![The view of the Ouse flooding the Kings Arms]({{ site.url }}/files/images/yorkflood2.png "The view of the Ouse flooding the Kings Arms")
 
 Second, it was really nice to be back in the my old Department. I spent so much time in the Computer Science Department at York, so being back was a trip down memory lane. I also got to show my lab-mates my old campus and the city I used to live in. I'd made quite a long list of nice pubs to show them -- obviously, once the day of talks was done.
 
@@ -76,7 +77,7 @@ The meeting was for the people in each different part of the project to present 
 
 The final stop in my March meanderings was (actually) sunny Swansea to see an old friend, who was working there.
 
-![A sunny bridge picture at Swansea docks]({{ site.url }}/files/images/swansea1.png)
+![A sunny bridge picture at Swansea docks]({{ site.url }}/files/images/swansea1.png "A sunny bridge picture at Swansea docks")
 
 We did our PhDs at York at the same time and organised a PhD conference together. He's another academic researcher, and works with robot swarms (large collections of relatively simple robots). So I went to see him to chat about robot swarms and catch up.
 
@@ -84,12 +85,12 @@ Swansea has recently had a [new campus](https://www.swansea.ac.uk/campus-develop
 
 While I was there I gave a talk about a [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-98938-9_10) that me and Marie wrote last year -- the one that took me to [Ireland](/ifm2018). I'd already given this talk, to the Robotics and Autonomous Systems group at Liverpool, so I already had slides (which are available here: <a href="/files/presentations/RAS-iFM.pdf" download ><button type="button" > Slides </button></a>). There was a detailed discussion afterwards, which seems to be a good indicator that people were listening, at least.
 
-![A fountain in Swansea]({{ site.url }}/files/images/swansea2.png)
+![A fountain in Swansea]({{ site.url }}/files/images/swansea2.png "A fountain in Swansea")
 
 ## April...
 
 Few, I'm glad that March is over. It's been busy and involved a lot of travel, so I'm glad to be back in one place for a while.
 
-![A picture of the Ashton Building, Universtiy of Liverpool, with a notable absence of both snow and flood.]({{ site.url }}/files/images/ashton.png)
+![A picture of the Ashton Building, Universtiy of Liverpool, with a notable absence of both snow and flood water]({{ site.url }}/files/images/ashton.png "A picture of the Ashton Building, Universtiy of Liverpool, with a notable absence of both snow and flood water")
 
 April will definitely be quieter, although it's already starting to get booked up. One thing that is on the horizon is a safety cases workshop that I'm running in Manchester, which I'll write about after it's done.
