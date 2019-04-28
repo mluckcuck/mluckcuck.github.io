@@ -59,7 +59,7 @@ which the lovely library archivists had laid out for us.
 
 The conference itself was held on the North Campus, a short walk away from where I was staying, in the Iontas Building (which I was reliably informed is pronounced 'een-thas' and is the Irish word for wonder).
 
-I was very happy to go back to iFM, this year. I'd last been to [iFM 2016](https://en.ru.is/ifm) in Reykjavik and found that I'd really enjoyed the mixture of papers being presented. The conference's focus on __integration__ formal methods means that the presentations often tackle intriguing problems that require either components of several languages or are best served by combining (often) a diagrammatic notation and a formal language. It also doesn't feel as serious as other conferences often do.
+I was very happy to go back to iFM, this year. I'd last been to [iFM 2016](https://en.ru.is/ifm) in Reykjavik and found that I'd really enjoyed the mixture of papers being presented. The conference's focus on __integration__ of formal methods means that the presentations often tackle intriguing problems that require either components of several languages or are best served by combining (often) a diagrammatic notation and a formal language. It also doesn't feel as serious as other conferences often do.
 
 My trip to [iFM 2016](https://en.ru.is/ifm) was to present the last paper written during my PhD, this trip was for the first paper of my new job -- a nice little symmetry, I thought. The [paper](https://arxiv.org/abs/1805.11996) was written by my new research partner, Marie Farrell, and me; aided by our boss, Michael Fisher.
 
