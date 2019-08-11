@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Lego Rovers: ~~Night~~ Day at the Museum"
+title:  "Lego Rovers at the World Museum"
 date:   2019-08-11 11:18:00 +0000
 categories: [outreach]
 permalink: /legorovers-worldMuseum
 section: Blog
 ---
 
+### or Lego Rovers: ~~Night~~ Day at the Museum"
 
 The Liverpool [World Museum](http://www.liverpoolmuseums.org.uk/wml/index.aspx) have been hosting a series of exhibitions and events about space, including the [Astronomy Photographer of the Year](http://www.liverpoolmuseums.org.uk/wml/exhibitions/astronomy-photography/index.aspx) exhibition (which is still running and I highly recommend). As part of this, we've again been running some [Lego Rovers](http://legorovers.csc.liv.ac.uk/) workshops, one on the 20th of July (the 50th anniversary of the Apollo 11 moon landing!) and one on the 10th of August (exactly 21 days after...er...the last Lego Rovers workshop).
 
@@ -30,7 +31,7 @@ The museum was an interesting venue because of the wide range of people visiting
 
 Over both the workshops I was talking to Jamie about why he'd volunteered for these outreach activities. We got chatting about the benefits of the experience you gain while doing it, experience that is useful even if you're not thinking of an academic career.  
 
-At its core, this is teaching experience. But breaking that down a little, that means you learn how to describe things so that it's easy to understand for a general audience (particularly a target audience of the children in the room) and provide some structure to an activity to keep the children engaged while they learn. You also begin to learn how to spot the people who want a little help but don't want to ask, or have a question but are worried about taking up too much of your time. 
+At its core, this is teaching experience. But breaking that down a little, that means you learn how to describe things so that it's easy to understand for a general audience (particularly a target audience of the children in the room) and provide some structure to an activity to keep the children engaged while they learn. You also begin to learn how to spot the people who want a little help but don't want to ask, or have a question but are worried about taking up too much of your time.
 
 Another set of skills that this kind of outreach can teach is organising the event itself, both planning for it and the logistics on the day. This involves things like thinking about what you'll need with you, talking to the organisation who is hosting your activity, and informing anyone you have helping you on the day.
 
