@@ -4,6 +4,7 @@ title:  "Twin Spekes: Two Days at Speke Hall"
 date:   2018-09-04 16:06:19 +0000
 categories: [outreach]
 image: /files/images/spekeHall4.png
+permalink: /legorovers-spekeHall
 section: Blog
 ---
 

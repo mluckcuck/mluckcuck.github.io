@@ -4,6 +4,7 @@ title:  "Light Nights, Sensor City"
 date:   2018-05-09 14:06:19 +0000
 categories: [outreach]
 image: /files/images/lightNight3.png
+permalink: /legorovers-lightNight
 section: Blog
 ---
 
