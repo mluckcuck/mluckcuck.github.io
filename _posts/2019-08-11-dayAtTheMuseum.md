@@ -7,7 +7,7 @@ permalink: /legorovers-worldMuseum
 section: Blog
 ---
 
-### or Lego Rovers: ~~Night~~ Day at the Museum"
+### or ~~Night~~ Day at the Museum
 
 The Liverpool [World Museum](http://www.liverpoolmuseums.org.uk/wml/index.aspx) have been hosting a series of exhibitions and events about space, including the [Astronomy Photographer of the Year](http://www.liverpoolmuseums.org.uk/wml/exhibitions/astronomy-photography/index.aspx) exhibition (which is still running and I highly recommend). As part of this, we've again been running some [Lego Rovers](http://legorovers.csc.liv.ac.uk/) workshops, one on the 20th of July (the 50th anniversary of the Apollo 11 moon landing!) and one on the 10th of August (exactly 21 days after...er...the last Lego Rovers workshop).
 
