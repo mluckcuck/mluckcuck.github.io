@@ -29,12 +29,6 @@ If you'd like to get in touch with me, feel free to drop me an email <a href="ma
 
 
   <li>
-    <a href="https://liverpool.academia.edu/{{ site.academiaEdu_username }}">
-      <img alt="academia.edu logo" src="/files/logos/academia-logo.png" width="32" height="32" /> https://york.academia.edu/{{ site.academiaEdu_username }}
-    </a>
-  </li>
-
-  <li>
     <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
       <i class="fab fa-researchgate fa-2x"></i> https://www.researchgate.net/profile/{{ site.researchgate_username }}
     </a>
