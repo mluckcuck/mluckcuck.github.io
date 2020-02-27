@@ -2,7 +2,7 @@
 layout: post
 title:  "A Year of Job Interviews"
 date:   2018-10-01 11:06:19 +0000
-categories: [job-hunt]
+categories: [job-hunt, mental-health]
 permalink: /jobHuntPost
 image: /files/images/tm_p45.png
 section: Blog
@@ -210,7 +210,7 @@ I felt so at ease that I remember making a joke or two -- I can't remember what 
 All in all, I came away very positive and floaty. I took a little walk around the area of the university and took some touristy pictures, before my bus home arrived. I was very happy about the interview, and even happier when an email arrived from them:
 
 <figure>
-![Acceptance Email from University 4]({{site.url}}/files/images/university4Accept.png)
+  <img source="{{site.url}}/files/images/university4Accept.png" alt="Acceptance Email from University 4">
 <figurecaption>Acceptance email from Universtiy 4</figurecaption>
 </figure>
 I'd like to think that I can separate the joy of being offered the job from the experience of the interview itself, and that this interview (regardless of the outcome) was the best I had in that 12 months. I remember feeling like that, even before the reply email, so I'm fairly confident that it was the best interview experience I've had so far.
