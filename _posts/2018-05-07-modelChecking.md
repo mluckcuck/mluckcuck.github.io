@@ -3,6 +3,7 @@ layout: post
 title:  "Model Checking Cheat Sheet"
 date:   2018-05-07 17:10:01 +0000
 categories: [modelChecking]
+permalink: /model-checking-cheatsheet
 section: Blog
 ---
 
