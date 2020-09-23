@@ -6,7 +6,7 @@ section: Contact
 ---
 
 If you'd like to get in touch with me, feel free to drop me an email <a href="mailto:{{site.email}}" >
-{{site.email}} </a>, or <a href="mailto:matthew.luckcuck@manchester.ac.uk" > matthew.luckcuck@manchester.ac.uk </a> for work or academic enquiries.
+{{site.email}}</a>, or <a href="mailto:matthew.luckcuck@manchester.ac.uk" > matthew.luckcuck@manchester.ac.uk </a> for work or academic enquiries.
 
 I may also be contactable on some of the platforms listed below.
 
