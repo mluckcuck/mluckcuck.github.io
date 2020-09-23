@@ -6,7 +6,9 @@ section: Contact
 ---
 
 If you'd like to get in touch with me, feel free to drop me an email <a href="mailto:{{site.email}}" >
-{{site.email}} </a> or contact me on the platform of your choice from the list below.
+{{site.email}} </a>, or <a href="mailto:matthew.luckcuck@manchester.ac.uk" > matthew.luckcuck@manchester.ac.uk </a> for work or academic enquiries.
+
+I may also be contactable on some of the platforms listed below.
 
 <ul style="list-style:none">
   <li>
@@ -22,31 +24,15 @@ If you'd like to get in touch with me, feel free to drop me an email <a href="ma
   </li>
 
   <li>
-    <a href="https://orcid.org/{{ site.orcid_username }}">
-      <img alt="ORCID logo" src="/files/logos/orcid_32x32.png" width="32" height="32"/> https://orcid.org/{{ site.orcid_username }}
-    </a>
-  </li>
-
-
-  <li>
     <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
       <i class="fab fa-researchgate fa-2x"></i> https://www.researchgate.net/profile/{{ site.researchgate_username }}
     </a>
   </li>
-
 
   <li>
     <a href="https://scratch.mit.edu/users/{{ site.scratch_username }}">
       <img alt="Scratch Cat Logo" src="/files/logos/scratchS.png" width="32" height="32" /> https://scratch.mit.edu/users/{{ site.scratch_username }}
     </a>
   </li>
-
-  <li>
-    <a href="https://publons.com/a/{{ site.publons_username }}">
-      <img alt="Publons Logo" src="/files/logos/blue_white_shadow.png" width="32" height="32" /> publons.com/a/{{ site.publons_username }}
-    </a>
-  </li>
-
-
 
   </ul>

@@ -8,7 +8,7 @@ section: Research
 
 ### Academic Profiles
 
-Feel free to look at my publication or review record on any of the following sites.
+My publication and/or reviewing records are available on the following sites.
 
 Profiles:  <a href="https://orcid.org/{{ site.orcid_username }}"><img alt="ORCID logo" src="/files/logos/orcid_32x32.png" width="32" height="32"/></a>
   <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}"><img alt="researchgate logo" src="/files/logos/RG_square_green.png" width="32" height="32" /></a>
@@ -25,7 +25,7 @@ Such environments are remote and hazardous to humans, so robotic systems deploye
 My post-doctoral research on this project involves the verification of autonomous robotic systems in the previously mentioned hazardous environments. I am looking at a range of techniques, including process algebraic models and temporal logic.
 
 
-## Thesis
+## PhD Thesis
 
 My research interests include formal modelling, model checking, safety-critical systems, and programming. My PhD relates to formalising [Safety-Critical Java (SCJ)](https://www.jcp.org/en/jsr/detail?id=302) using the state-rich process algebra [_Circus_](https://www.cs.york.ac.uk/circus/), which combines elements of Z and CSP. I was supervised jointly by Professors Ana Cavalcanti and Andy Wellings at the University of York.
 
