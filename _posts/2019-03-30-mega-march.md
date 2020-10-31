@@ -4,6 +4,7 @@ title:  "Mega March"
 date:   2019-03-30 16:06:19 +0000
 categories: [research]
 image: /files/images/trondheim1.png
+permalink: /mega-march
 section: Blog
 ---
 
@@ -91,6 +92,6 @@ While I was there I gave a talk about a [paper](https://link.springer.com/chapte
 
 Few, I'm glad that March is over. It's been busy and involved a lot of travel, so I'm glad to be back in one place for a while.
 
-![A picture of the Ashton Building, Universtiy of Liverpool, with a notable absence of both snow and flood water]({{ site.url }}/files/images/ashton.png "A picture of the Ashton Building, Universtiy of Liverpool, with a notable absence of both snow and flood water")
+![A picture of the Ashton Building, University of Liverpool, with a notable absence of both snow and flood water]({{ site.url }}/files/images/ashton.png "A picture of the Ashton Building, University of Liverpool, with a notable absence of both snow and flood water")
 
 April will definitely be quieter, although it's already starting to get booked up. One thing that is on the horizon is a safety cases workshop that I'm running in Manchester, which I'll write about after it's done.
