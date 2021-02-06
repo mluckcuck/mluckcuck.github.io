@@ -11,7 +11,7 @@ I often work with the formal language Communicating Sequential Processes ([CSP](
 
 I'm used to the broad workflow involved with modelling and model checking (I've been doing it since the start of my PHD) so I know that I need to build a model, which should have some properties, then check that the model has these properties. Sometimes it's the other way around, and the properties (often being more abstract) come first, and the model implements the properties. But I find that modelling and them checking the model better suits my brain.
 
-During work on a [recent paper](/varanus) (and after reading some papers that talked about Specification/Model Debugging) I started thinking about how I go about this process. Debugging is something that feels much more closely linked to 'proper' software, but since I've always approached formal methods in a more software-development style, it made sense that a formal model should also need to be debugged.
+During work on a recent paper (and after reading some papers that talked about Specification/Model Debugging) I started thinking about how I go about this process. Debugging is something that feels much more closely linked to 'proper' software, but since I've always approached formal methods in a more software-development style, it made sense that a formal model should also need to be debugged.
 
 The following was originally written as I was trying to check that my [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes) model obeyed some properties. Both the model and the properties were derived from a natural-language document (i.e. a report written in English) which often leads to a tricky modelling process, because of the vagaries of natural language.
 

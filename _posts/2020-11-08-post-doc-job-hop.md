@@ -3,7 +3,7 @@ layout: post
 title:  "Post-Doc Job Hop"
 date:   2020-11-08 14:06:19 +0000
 categories: [academia, job-hunt, mental-health]
-
+permalink: /post-doc-job-hop
 section: Blog
 ---
 
