@@ -8,7 +8,7 @@ permalink: /legorovers-spekeHall
 section: Blog
 ---
 
-#### Rejected titles for this post include: Crimson Speke, Spekey Blinders, Dante's Speke, Public Spekeing, Speke Practice, Speke Friend and Enter
+#### Rejected titles: Crimson Speke, Spekey Blinders, Dante's Speke, Public Spekeing, Speke Practice, Speke Friend and Enter...
 
 A few weeks ago I had two days out of the office getting to teach children (and often their parents) about robots. As I [posted about previously]({{ site.url }}/outreach/2018/05/09/Light-Night.html), I'm involved in an outreach activity called [Lego Rovers](http://legorovers.csc.liv.ac.uk/) created by [Dr Louise Dennis](http://cgi.csc.liv.ac.uk/~lad/), that teaches children about autonomous systems using Lego robots. The Lego Rovers are built to look a bit like the Mars Rovers, and can be remote controlled or programmed (by the children) to avoid obstacles or follow lines.
 
