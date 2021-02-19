@@ -22,10 +22,12 @@ During my PhD I took the opportunity to demonstrate on several modules of differ
 * I also assisted in a workshop session on LaTeX for an MSc module. There were approximately 12 masters-level students.
 
 
-Child and Teenage Education
+Volunteering and Outreach
 ---------
 
-I volunteer with a local [Code Club](https://www.codeclub.org.uk), helping children to learn basic programming and computational thinking, using [Scratch](https://scratch.mit.edu/about). I find Scratch a useful language for teaching children programming, because it only allows blocks of code to fit together in a grammatically correct way. This focusses debugging on the _logic_ of the program rather than the syntax of the language.
+During my time at the University of Liverpool, I was involved in a existing outreach activity called [Lego Rovers](http://legorovers.csc.liv.ac.uk/). This uses Lego Mindstorms kits to teach children some of the basic ideas about artificial intelligence. I ran the 'drop-in' stand on my own, at Liverpool's Light Night festival. I [wrote a post](/legorovers-lightNight) about the festival and what I did. I've helped as part of a team running workshops, for example at an [event at Speke Hall](/legorovers-spekeHall). I've also run two days of workshops myself, as part of an [event about space](/legorovers-worldMuseum), at Liverpool's World Museum.
+
+I [volunteered](/code-club) with a local [Code Club](https://www.codeclub.org.uk), helping children to learn basic programming and computational thinking, using [Scratch](https://scratch.mit.edu/about). I find Scratch a useful language for teaching children programming, because it only allows blocks of code to fit together in a grammatically correct way. This focusses debugging on the _logic_ of the program rather than the syntax of the language.
 
 I also taught children (ranging from 8-14) basic programming skills with <a href="https://twitter.com/yorkmakerhub">York Maker Hub <i class="fa fa-twitter-square fa-1x"></i></a> (which has sinced closed). We ran sessions that allowed the children to build and program various projects on a variety of platforms, including [Scratch](https://scratch.mit.edu/about), [Makey Makey](https://makeymakey.com/), and [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms/).
 
@@ -35,9 +37,10 @@ Private Tutoring
 
 I have tutored an A-Level Computing student, one-on-one, to improve their exam and coursework grades. We focussed on covering key topics from the syllabus that the student felt they hadn't grasped well enough. Together, we improved their final grade by two grade boundaries. My total contact time was around 20 hours (1 hour per week).
 
-If you're interested in computer science tutoring at A-Level or Degree (both undergraduate and post-graduate) level, you can look at my profile on [Tutor Hunt](https://www.tutorhunt.com/users/6208346247672/). There they have confirmed my identity and DBS check (which replaced CRB checks) and shows my hourly rates. However, I understand that their fee for buying a tutor's contact details are quite high, so if you'd prefer you can contact me using any of the methods on my [Contacts](/contact) page.
 
 Other Activities
 ----------------
+
+In 2019, a colleague ([Marie Farrell](https://orcid.org/0000-0001-7708-3877)) started a new workshop on Formal Methods for Autonomous Systems (FMAS). The first workshop was held as a satellite event at Formal Methods 2019. The second was held online, because of the ongoing COVID-19 restrictions. For both workshops, I've focussed on organising the Programme Committee and advertising the workshop. We plan to run FMAS again in 2021.
 
 During 2014 I was the Programme Committee chair for the [York Doctoral Symposium on Computer Science and Electronics (YDS2014)](https://www.cs.york.ac.uk/yds/yds2014/), a student conference organised at the University of York. I was responsible for recruiting programme-committee members and ensuring that submissions were reviewed fairly. I also co-lead an interdepartmental team of PhD students in the planning and organisation of YDS2014. If you want to read the proceedings I put together for YDS2014 (including the _fantastic_ foreword) it can be found <a href="https://www.cs.york.ac.uk/ftpdir/reports/2014/YCS/494/YCS-2014-494.pdf" download> downloaded here </a>.
