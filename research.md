@@ -17,12 +17,19 @@ Profiles:  <a href="https://orcid.org/{{ site.orcid_username }}"><img alt="ORCID
  <a href="http://dblp.uni-trier.de/pers/hd/l/{{site.dblp_username}}"><img alt="DBLP Logo" src="/files/logos/dblp2.png" width="32" height="32" /></a>
 
 
+## Automated Aircraft Control Systems
+
+I'm currently working as a Post-Doctoral Researcher at at [Maynooth University](https://www.maynoothuniversity.ie/computer-science), Ireland. I'm researching formal verification techniques for automated aircraft engine control systems, as part of the the [Verification and Validation of Automated Systems' Safety and Security (VALU3S)](https://valu3s.eu/) project. My work on this project started with an extensive survey paper of formal verification for aerospace systems, and focusses on integrating formal methods with the Simulink models provided by the project's use case provider.
+
 ## Autonomous Robots in Hazardous Environments
 
-I'm Research Assistant in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the University of Liverpool, where I'm working on the Autonomous Robots in Hazardous Environments project -- details of the EPSRC grant can be found [here](https://www.epsrc.ac.uk/funding/calls/raihubs/). I am working on three separate, but related, hubs. Each hub focusses on a different hazardous environment: [nuclear](http://rainhub.org.uk/), [offshore](https://orcahub.org/), and [space](http://cgi.csc.liv.ac.uk/~michael/FAIR-SPACE-Hub/).
-Such environments are remote and hazardous to humans, so robotic systems deployed there require a high level of autonomy and rigorous verification.
+My first post-doc job was a a Research Assistant in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the University of Liverpool, working on one of the [Robotics and AI Hubs](https://www.epsrc.ac.uk/funding/calls/raihubs/).
 
-My post-doctoral research on this project involves the verification of autonomous robotic systems in the previously mentioned hazardous environments. I am looking at a range of techniques, including process algebraic models and temporal logic.
+Most of my work in this job was for the [Robotics and AI in Nuclear (RAIN)](http://rainhub.org.uk/) Hub. Other colleagues were involved in the the hubs for [offshore](https://orcahub.org/), and [space](http://cgi.csc.liv.ac.uk/~michael/FAIR-SPACE-Hub/), so some of my collaborative work crossed over to those domains too. These environments are remote and hazardous to humans, so robotic systems deployed there require a high level of autonomy and rigorous verification.
+
+My work on this project began with an extensive survey paper, and then focussed on linking heterogeneous verification approaches applied across an autonomous software system, and runtime verification of an autonomous system's behaviour. I also lead a collaboration with the UK's Office for Nuclear Regulation on developing guidance for developers of autonomous systems that ensures their systems are amenable to robust verification and can provide useful assurance evidence.
+
+During this job I also helped setup the [research group (now network) website](https://autonomy-and-verification.github.io/) alongside [Rafael Cardoso](https://orcid.org/0000-0001-6666-6954), and was 'volunteered' to setup and run a <a href="https://twitter.com/AandVNetwork"><i class="fab fa-twitter"></i>Twitter account</a> for the group (now network). Most of the activities we did for these projects got tweeted about, and can be found under <a href="https://twitter.com/search?f=tweets&amp;q=HazardousHubs"> <i class="fab fa-twitter"></i> #HazardousHubs</a>.
 
 
 ## PhD Thesis
