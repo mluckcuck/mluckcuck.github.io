@@ -31,6 +31,7 @@ I [volunteered](/code-club) with a local [Code Club](https://www.codeclub.org.uk
 
 I also taught children (ranging from 8-14) basic programming skills with <a href="https://twitter.com/yorkmakerhub">York Maker Hub <i class="fa fa-twitter-square fa-1x"></i></a> (which has sinced closed). We ran sessions that allowed the children to build and program various projects on a variety of platforms, including [Scratch](https://scratch.mit.edu/about), [Makey Makey](https://makeymakey.com/), and [Lego Mindstorms](https://www.lego.com/en-gb/mindstorms/).
 
+My Scratch profile can be found here:<a href="https://scratch.mit.edu/users/{{ site.scratch_username }}"> <img alt="Scratch Cat Logo" src="/files/logos/scratchS.png" width="32" height="32" /> https://scratch.mit.edu/users/{{ site.scratch_username }} </a>
 
 Private Tutoring
 --------
