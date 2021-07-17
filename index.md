@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img alt="Matt Luckcuk at PhD Graduation 2017" style="float: right" class="img-responsive" src="/files/images/gradPicture.png">
+<img alt="An increasingly out of date picture of Matt Luckcuk at his PhD Graduation in 2017" style="float: right" class="img-responsive" src="/files/images/gradPicture.png">
 
 I'm a Post-Doctoral Researcher in the Department of Computer Science at [Maynooth University](https://www.maynoothuniversity.ie/computer-science). I work on developing and applying formal verification techniques to automated and autonomous systems.
 
