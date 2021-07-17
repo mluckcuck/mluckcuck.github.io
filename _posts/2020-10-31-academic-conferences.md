@@ -51,7 +51,7 @@ For me, the accommodation's distance to the venue is tricky. I usually want to b
 
 It took me a few conference trips to realise how much they stress me. Usually I sleep very badly (including a few days before travelling) and often get a sore throat or flu-like symptoms, regardless of how I've travelled. I've come to accept that this is just how I react to these sorts of big events and try to adapt (in some of the ways I've mentioned above). But having a comfortable enough hotel room to retreat to, that isn't too far from the conference (for the inevitable late mornings), is very helpful. Forethought on getting that balance right is well used time, in my book.
 
-## Take Some Time to Stand and State
+## Take Some Time to Stand and Stare
 
 Often a conference is in another country, in a new city or town. As I mentioned, I hadn't had much opportunity to travel abroad when I was younger, so I now take some time to do a little sightseeing along with my conference travel. Do I still feel guilty about that? Yes. In the back of my head it feels selfish, a waste of time, and a waste of the money it took to get me there.
 
@@ -59,4 +59,4 @@ The way I have to frame it, is that taking a break (see above) to go sightseeing
 
 Like the conference itself is a good place to expand your network of contacts, sightseeing while you're there is good for expanding your horizons more generally. Often a big conference will a social event or trip, but if not (or even if they do) it can be very relaxing to decide to go for a wander around the city or to go and see something local while you have the chance to.
 
-This is a huge privilege, of course. But with so many other stressful things about an academic career, especially during the post-doc/Early Career Researcher phase!) I think it's important to find some of the perks and build them in to a conference trip. 
+This is a huge privilege, of course. But with so many other stressful things about an academic career, especially during the post-doc/Early Career Researcher phase!) I think it's important to find some of the perks and build them in to a conference trip.
