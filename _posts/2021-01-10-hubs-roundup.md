@@ -50,6 +50,7 @@ The article "Regulating Safety and Security in Autonomous Robotic Systems" is av
 
 ### Defending Formal Methods
 #### Or "Another Tool in the Box: Why use Formal Methods for Autonomous Systems?"
+#### Or "Using Formal Methods for Autonomous Systems: Five Recipes for Formal Verification"
 
 [Previously](/mega-march#Trek-to-Trondheim) I mentioned attending the [International Workshop on Autonomous System Safety](https://www.ntnu.edu/imt/iwass) in Trondheim. Mid-way through last year, they organised a special issue of the [Journal of Risk and Reliability](https://journals.sagepub.com/home/pio). I decided to expand on the paper I'd written for the proceedings of the workshop, turning it into a larger (and I hope more useful) argument in favour of using formal methods for autonomous systems.
 
@@ -69,7 +70,7 @@ Either way, I went with the idea of formal methods providing _tools_ to verify t
 
 I submitted the paper and it's status is "Peer review in process". I'd like to have had it published before the end of this job, but **events...**. The pre-print draft is, predictably, available online:
 
-* "Another Tool in the Box: Why use Formal Methods for Autonomous Systems?"
+* "Using Formal Methods for Autonomous Systems: Five Recipes for Formal Verification"
   - [arXiv](https://arxiv.org/abs/2012.00856)
 
 
