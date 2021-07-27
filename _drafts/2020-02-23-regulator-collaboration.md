@@ -7,8 +7,10 @@ categories: [research]
 section: Blog
 ---
 
-As part of [my job](/myJob) I've been 
+As part of [my job](/myJob) I've been
 
 [RAIN](http://rainhub.org.uk/)
 
  [hubs](/hubs)
+
+ % Try to sum up lessons
