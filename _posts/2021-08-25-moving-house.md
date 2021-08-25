@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What I Learnt from Moving House"
+title:  "Moving House and Playing Tourist"
 date:   2021-08-25 14:06:19 +0000
 categories: [personal, academia]
 
