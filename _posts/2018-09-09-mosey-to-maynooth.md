@@ -63,7 +63,7 @@ I was very happy to go back to iFM, this year. I'd last been to [iFM 2016](https
 
 My trip to [iFM 2016](https://en.ru.is/ifm) was to present the last paper written during my PhD, this trip was for the first paper of my new job -- a nice little symmetry, I thought. The [paper](https://arxiv.org/abs/1805.11996) was written by my new research partner, Marie Farrell, and me; aided by our boss, Michael Fisher.
 
-We were given the less-than-lovely presentation slot of last-thing on the middle day of the conference. It was the end of the day, so people were tired and also been drinking the night before (I'm looking at you Marie!). But Marie, who was giving the presentation since she's first author, was brilliant.
+We were given the less-than-lovely presentation slot of last-thing on the middle day of the conference. It was the end of the day, so people were tired and also had been drinking the night before (I'm looking at you Marie!). But Marie, who was giving the presentation since she's first author, was brilliant.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">And....talk delivered! Marie gave a great talk for our paper <a href="https://twitter.com/iFMconf?ref_src=twsrc%5Etfw">@iFMconf</a> <a href="https://twitter.com/hashtag/ifm2018?src=hash&amp;ref_src=twsrc%5Etfw">#ifm2018</a> <a href="https://twitter.com/hashtag/ThisWomanRocks?src=hash&amp;ref_src=twsrc%5Etfw">#ThisWomanRocks</a> <a href="https://t.co/SWCOzN0bsV">pic.twitter.com/SWCOzN0bsV</a></p>&mdash; Matt Luckcuck (@MattLuckcuck) <a href="https://twitter.com/MattLuckcuck/status/1037974414657249285?ref_src=twsrc%5Etfw">September 7, 2018</a></blockquote>
 
