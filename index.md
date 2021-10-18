@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img alt="An increasingly out of date picture of Matt Luckcuk at his PhD Graduation in 2017" style="float: right" class="img-responsive" src="/files/images/gradPicture.png">
+<img alt="A picture of Matt Luckcuk taken in 2021. He is a white man with an oval face, long brown hair that comes over his shoulders, and a medium-length brown beard. He is smiling, slightly and looking straight into the camera lens." style="float: right" class="img-responsive" src="/files/images/MUCard.png">
 
 I'm a Post-Doctoral Researcher in the Department of Computer Science at [Maynooth University](https://www.maynoothuniversity.ie/computer-science). I work on developing and applying formal verification techniques to automated and autonomous systems.
 
