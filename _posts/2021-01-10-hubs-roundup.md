@@ -3,7 +3,7 @@ layout: post
 title:  "Hubs Round-Up"
 date:   2021-02-06 14:06:19 +0000
 categories: [academia, job-hunt, mental-health]
-
+permalink:  /hubs-roundup
 section: Blog
 ---
 
@@ -124,7 +124,7 @@ I didn't think I could bring anything to the team, so for the first year I just 
 
 Next year, Rafael said he was going to enter the competition again, and I wanted to see if I could add some formal methods to their approach. I started modelling a complicated protocol that governed how the agents built up a shared map of their environment.
 
-The model isn't quite finished yet (but then, the competition is still running, and there was _The Event_ to deal with) but even so, I've seen that multi-agent systems have more in common with other types of real-time systems than I had expected. These sorts of synchronisation problems are dealt with in similar ways to other real-time problems, locks and atomicity, but sometimes under different names. It was a new perspective on this type of system, that I wouldn't have gotten otherwise.
+The model isn't quite finished yet (but then, the competition is still running, and there was _**The Event**_ to deal with) but even so, I've seen that multi-agent systems have more in common with other types of real-time systems than I had expected. These sorts of synchronisation problems are dealt with in similar ways to other real-time problems, locks and atomicity, but sometimes under different names. It was a new perspective on this type of system, that I wouldn't have gotten otherwise.
 
 Now Rafael and I are preparing a paper about this modelling and verification of the protocol used for our entry to the competition this year. It's not yet written, but it's an interesting side-project that I hope gets published.
 
