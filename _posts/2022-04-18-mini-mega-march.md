@@ -11,7 +11,6 @@ A few years ago, before _**The Event**_, I had a [Mega March](/mega-march) with 
 
 I had intended to write this up very close to the end of March, but it's now mid-April. What can I say? Things have been busy. Anyway, here goes.
 
-
 ## An Office Visit
 
 Since January I've been working *at* Maynooth University in Ireland, but living *in* Liverpool in the UK still. This has been mostly ok. We've had lots of virtual meetings and still been able to collaborate on papers. This was made a lot easier by the fact that I had worked with one of my 'new' colleagues for three years already! (Useful if you can arrange it.)
