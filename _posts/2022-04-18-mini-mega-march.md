@@ -4,6 +4,7 @@ title:  "(Mini) Mega March"
 date:   2022-04-17 18:15:19 +0000
 categories: academia
 image: /files/images/maynooth.png
+permalink: /mini-mega-march
 section: Blog
 ---
 
