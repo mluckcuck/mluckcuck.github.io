@@ -13,7 +13,6 @@ My publication and/or reviewing records are available on the following sites.
 Profiles:  <a href="https://orcid.org/{{ site.orcid_username }}"><img alt="ORCID logo" src="/files/logos/orcid_32x32.png" width="32" height="32"/></a>
   <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}"><img alt="researchgate logo" src="/files/logos/RG_square_green.png" width="32" height="32" /></a>
  <a href="https://scholar.google.co.uk/citations?user={{site.scholar_username}}"><img alt="google scholar Logo" src="/files/logos/gscholar32x32.png" width="32" height="32" /></a>
- <a href="https://publons.com/a/{{ site.publons_username }}"><img alt="Publons Logo" src="/files/logos/blue_white_shadow.png" width="32" height="32" /></a>
  <a href="http://dblp.uni-trier.de/pers/hd/l/{{site.dblp_username}}"><img alt="DBLP Logo" src="/files/logos/dblp2.png" width="32" height="32" /></a>
 
 

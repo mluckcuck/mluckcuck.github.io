@@ -36,12 +36,12 @@ My Scratch profile can be found here:<a href="https://scratch.mit.edu/users/{{ s
 Private Tutoring
 --------
 
-I have tutored an A-Level Computing student, one-on-one, to improve their exam and coursework grades. We focussed on covering key topics from the syllabus that the student felt they hadn't grasped well enough. Together, we improved their final grade by two grade boundaries. My total contact time was around 20 hours (1 hour per week).
+I tutored an A-Level Computing student, one-on-one, to improve their exam and coursework grades. We focussed on covering key topics from the syllabus that the student felt they hadn't grasped well enough. Together, we improved their final grade by two grade boundaries. My total contact time was around 20 hours (1 hour per week).
 
 
 Other Activities
 ----------------
 
-In 2019, a colleague ([Marie Farrell](https://orcid.org/0000-0001-7708-3877)) started a new workshop on Formal Methods for Autonomous Systems (FMAS). The first workshop was held as a satellite event at Formal Methods 2019. The second was held online, because of the ongoing COVID-19 restrictions. For both workshops, I've focussed on organising the Programme Committee and advertising the workshop. We plan to run FMAS again in 2021.
+In 2019 I co-founded the [Workshop on Formal Methods for Autonomous Systems](https://fmasworkshop.github.io/) (FMAS) which is a peer-reviewed academic venue for researchers working on applying formal methods to almost any kind of autonomous system. The first workshop we held as a satellite event at Formal Methods 2019 (in Porto, Portugal). Since then, we have run FMAS anually -- both in-person, entirely online, and then hybrid. My focuss for FMAS is on organising the Programme Committee and advertising the workshop. 
 
 During 2014 I was the Programme Committee chair for the [York Doctoral Symposium on Computer Science and Electronics (YDS2014)](https://www.cs.york.ac.uk/yds/yds2014/), a student conference organised at the University of York. I was responsible for recruiting programme-committee members and ensuring that submissions were reviewed fairly. I also co-lead an interdepartmental team of PhD students in the planning and organisation of YDS2014. If you want to read the proceedings I put together for YDS2014 (including the _fantastic_ foreword) it can be found <a href="https://www.cs.york.ac.uk/ftpdir/reports/2014/YCS/494/YCS-2014-494.pdf" download> downloaded here </a>.
