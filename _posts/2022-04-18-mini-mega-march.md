@@ -36,7 +36,7 @@ The white paper took a lot of effort to put together, so I was pleased to get to
 The details of the workshop my talk was part of can be found [on its page on the A&V Network website](https://autonomy-and-verification.github.io/events/principles-safety-cases-workshop), where the slides for my presentation can also be found.
 
 The white paper is available online:
-* Luckcuck, Matt, Fisher, Michael, Dennis, Louise, Frost, Steve, White, Andy, & Styles, Doug. (2021). Principles for the Development and Assurance of Autonomous Systems for Safe Use in Hazardous Environments. Zenodo. [https://doi.org/10.5281/zenodo.5012322]https://doi.org/10.5281/zenodo.5012322)
+* Luckcuck, Matt, Fisher, Michael, Dennis, Louise, Frost, Steve, White, Andy, & Styles, Doug. (2021). Principles for the Development and Assurance of Autonomous Systems for Safe Use in Hazardous Environments. Zenodo. [https://doi.org/10.5281/zenodo.5012322](https://doi.org/10.5281/zenodo.5012322)
 
 And the 'chatty' paper that followed on from the white paper, _"Using formal methods for autonomous systems: Five recipes for formal verification"_ is also available:
 * Publisher's copy: [https://doi.org/10.1177%2F1748006X211034970](https://doi.org/10.1177%2F1748006X211034970)
