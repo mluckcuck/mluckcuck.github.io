@@ -8,9 +8,6 @@ section: Contact
 If you'd like to get in touch with me, feel free to drop me an email:
 <ul style="list-style:none">
   <li>
-    <a href="mailto:m.luckcuck@derby.ac.uk" >m.luckcuck@derby.ac.uk</a> for work or academic enquiries, or
-  </li>
-  <li>
     <a href="mailto:{{site.email}}" >{{site.email}}</a> for non-work emails.
   </li>
 </ul>
