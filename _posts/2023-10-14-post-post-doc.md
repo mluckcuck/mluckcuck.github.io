@@ -34,3 +34,6 @@ As a post-doc, I did no teaching work within the university. As far as I underst
 
 The upshot of these situations is that the gap between doing some post-doc jobs and getting a job as a lecturer feels very large. There are bits of experiences that you can draw on to give evidence that you would be good at lecturing, but rarely can you point at things in the post-doc jobs you've done and say 'this shows me doing exactly what this job is'. I find this odd, and disconcerting. Also, surely this means that recruiting new lecturing staff is often about gambling on a person's potential. Then again, I suppose that was the case when I was applying for my PhD, but perhaps that feels different because it was a studentship rather than a job.
 
+## Somthing  witty about the campus
+
+## Plans!!
