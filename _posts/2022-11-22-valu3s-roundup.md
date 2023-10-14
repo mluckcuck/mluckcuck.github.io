@@ -4,10 +4,11 @@ title:  "VALU3S Round Up"
 date:   2022-11-22 17:15:19 +0000
 categories: [academia]
 image:  /files/logos/values-logo.png
+permalink: /valu3s-roundup
 section: Blog
 ---
 
-As another post-doc job I wanted to summarise what I've been doing during this project. I did this [before]( /hubs-roundup) and I've found it very useful, I think it's helpful because it reminds me that I've not just been twiddling my thumbs and getting paid to do nothing.
+As another post-doc job comes to an end, I wanted to summarise what I've been doing during this project. I did this [before]( /hubs-roundup) and I've found it very useful, I think it's helpful because it reminds me that I've not just been twiddling my thumbs and getting paid to do nothing.
 
 For this post-doc contract I was working on the [VALU3S project](https://valu3s.eu) (or "Verification and Validation of Automated Systems’ Safety and Security" for long) which was a large EU project with a lot of universities and industrial partners in the consortium. I was working on [Use Case 5](https://repo.valu3s.eu/use-cases/aircraft-engine-controller), which was the software controller for a civilian aircraft engine. (I usually add the word "civilian", because this project is about as close as I want to come to military funding.) Our team was me, Rosemary Monahan, Marie Farrell, and 
 Oisín Sheridan. 

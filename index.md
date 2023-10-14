@@ -7,13 +7,13 @@ layout: page
 
 
 
-<img alt="A picture of Matt Luckcuk taken in 2021. He is a white man with an oval face, long brown hair that comes over his shoulders, and a medium-length brown beard. He is smiling, slightly and looking straight into the camera lens." style="float: right" class="w3-round" src="/files/images/MUCard.png">
+<img alt="A picture of Matt Luckcuk taken in 2023. He is a white man with an oval face, long brown hair that comes over his shoulders, and a medium-length brown beard. He is smiling, slightly and looking straight into the camera lens. He is wearing a light blue shirt." style="float: right" class="w3-round" src="/files/images/Me_UoN.png">
 
-I am a UK Computer Science academic, soon to be starting as an Assistant Professor at the University of Nottingham. I work on developing and applying formal verification techniques to automated and autonomous systems. In 2019 I co-founded the [Workshop on Formal Methods for Autonomous Systems](https://fmasworkshop.github.io/).
+I am an Assistant Professor at the University of Nottingham, UK. I work on developing and applying formal verification techniques to automated and autonomous systems. I am part of the [Autonomy and Verification Network](https://autonomy-and-verification.github.io/), which a research collaboration focussing on verification of autonomous systems.  In 2019 I co-founded the [Workshop on Formal Methods for Autonomous Systems](https://fmasworkshop.github.io/).
 
 Previously I've worked as a Post-Doctoral Researcher in the Department of Computer Science at [Maynooth University](https://www.maynoothuniversity.ie/computer-science), on the EU-funded [Verification and Validation of Automated Systems’ Safety and Security](https://valu3s.eu/) project; and as a Research Associate at the Universities of [Manchester](https://www.cs.manchester.ac.uk/research/expertise/autonomy-and-verification/) and [Liverpool](https://www.liverpool.ac.uk/computer-science/) on the [RAIN Hub](https://rainhub.org.uk/). I received my PhD in Computer Science from the [University of York](https://www.cs.york.ac.uk/). More details of my thesis and research can be found on the [Research](/research/) page.
 
-I've also found teaching very enjoyable and rewarding. I've been DBS checked and my teaching experience has ranged over many age- and ability-levels; from 8 to (nearly) 80, and from beginners up to university level. Details of my teaching experience can be found on the [Teaching and Outreach](/teaching/) page.
+I've also found teaching very enjoyable and rewarding. I've been DBS checked and my teaching experience has ranged over many age- and ability-levels; from 8 to (nearly) 80, and from beginners up to university level. Details of some of my teaching experience can be found on the [Teaching and Outreach](/teaching/) page.
 
-A current(ish) version of my CV can be found [here](/files/MSL-CV.pdf).
+
 

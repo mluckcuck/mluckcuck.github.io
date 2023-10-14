@@ -6,6 +6,8 @@ section: Research
 
 ---
 
+My research interests lie in the intersection of formal software verification and safety-critical software, with a particular focus on applying formal methods to autonomous robotic systems. I am keen to do research work that also provides practical benefits, producing usable tools that support verification, development, and future research projects.
+
 ### Academic Profiles
 
 My publication and/or reviewing records are available on the following sites.
@@ -18,11 +20,15 @@ Profiles:  <a href="https://orcid.org/{{ site.orcid_username }}"><img alt="ORCID
 
 ## Automated Aircraft Control Systems
 
-I'm currently working as a Post-Doctoral Researcher at at [Maynooth University](https://www.maynoothuniversity.ie/computer-science), Ireland. I'm researching formal verification techniques for automated aircraft engine control systems, as part of the the [Verification and Validation of Automated Systems' Safety and Security (VALU3S)](https://valu3s.eu/) project. My work on this project started with an extensive survey paper of formal verification for aerospace systems, and focusses on integrating formal methods with the Simulink models provided by the project's use case provider.
+My second pot-doc job was as Post-Doctoral Researcher at [Maynooth University](https://www.maynoothuniversity.ie/computer-science), Ireland. I was part of a team researching formal verification techniques for automated aircraft engine control systems, as part of the the [Verification and Validation of Automated Systems' Safety and Security (VALU3S)](https://valu3s.eu/) project. Having long told people that a good place to start with formal specification of a system is by looking at its requirements, my work on this project gave me a fantastic opportunity to do just that. A longer round-up of my work on this project can be found in a [blog post](/valu3s-roundup) I wrote.
+
+Much of my work during this job centred on the _requirements_ for the civilian aircraft engine controller that our industrial partner had given us. We captured the requirements in [FRET](https://github.com/NASA-SW-VnV/fret) (the Formal Requirements Elicitation Tool, written by a verification team at NASA) and did a lot of collaborative with the industrial partner to make sure that our formalisation of their requirements meant what they had intended the requirements to say. In this sense, I took a step into Requirements Engineering for the first time.
+
+Seeing that the requirements contained a lot of repetitions, I was reminded of a module on Refactoring (improving the structure of a program without changing its behaviour) that I took during my undergraduate degree. I began investigating the idea of being able to reorganise the requirements in structured way to make them easier to maintain. This idea was eventually implemented in a fork of FRET that I called [Mu-FRET](https://github.com/valu3s-mu/mu-fret), which added one refactoring. More are being added by [Oisín Sheridan](https://orcid.org/0000-0002-8613-2500).
 
 ## Autonomous Robots in Hazardous Environments
 
-My first post-doc job was a a Research Assistant in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the University of Liverpool, working on one of the [Robotics and AI Hubs](https://www.epsrc.ac.uk/funding/calls/raihubs/).
+My first post-doc job was a a Research Assistant in the Department of Computer Science at the University of Liverpool (and later, the University of Manchester), working on one of the [Robotics and AI Hubs](https://www.epsrc.ac.uk/funding/calls/raihubs/). I wrote [blog post](/hubs-roundup) that gives a detailed round-up of my work during this job.
 
 Most of my work in this job was for the [Robotics and AI in Nuclear (RAIN)](http://rainhub.org.uk/) Hub. Other colleagues were involved in the the hubs for [offshore](https://orcahub.org/), and [space](http://cgi.csc.liv.ac.uk/~michael/FAIR-SPACE-Hub/), so some of my collaborative work crossed over to those domains too. These environments are remote and hazardous to humans, so robotic systems deployed there require a high level of autonomy and rigorous verification.
 
