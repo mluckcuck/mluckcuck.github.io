@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post Post-Doc"
+title:  "Partial Installation: Post Post-Doc"
 date:   2023-10-14 17:15:19 +0000
 categories: [academia]
 section: Blog
@@ -10,17 +10,15 @@ After my PhD and two post-doc contracts, I thought it was about time that I got 
 
 This month I start a new job. After a short stint as Lecturer at the University of Derby, I am now an Assistant Professor of Computer Science at the University of Nottingham. It's been nice to come back home to the Midlands, to have a slightly more intuitive sense of where different towns and cities are, but I also feel slightly out of place from being away for so long. 
 
-## Partial Installation
+## _so here you  are, installed…_
 
-This month was my second first week as a new lecturer, and it still feels like there's a lot that I don't know. Not that I didn't learn anything the first time around, but maybe I wasn't in my previous job long enough to have learnt how to do all the parts of the job. Add that to the usual things with a new job: registering for email addresses, IT systems, finding your way around the building, etc; its been a good start, but there are still 'new job admin' things on my todo list.
+This month saw my second first week as a new lecturer, and it still feels like there's a lot that I don't know. Not that I didn't learn anything the first time around, but maybe I wasn't in my previous job long enough to have learnt how to do all the parts of the job. Add that to the usual things with a new job: registering for email addresses, IT systems, finding your way around the building, etc; its been a good start, but there are still 'new job admin' things on my todo list.
 
-Whenever I move house, and more recently when I've moved job, I get a line from Martin Chuzlewhit, by Charles Dickens, stuck in my head. Specifically it's in the voice and intonation that I heard in the the Radio 4 adaptation of it that I had on tape. It's a character starting a new job, who has been shown into his office and left to get on with things. Excitedly, he says : _"And so, here I am; **installed**..."_ but, this time, I'm not installed. Neither was I last time. On both occasions I've been only _partially_ installed; this time, in a (thankfully empty) hot-desking room; for the last job I was perched at the desk of someone away on long-term-sick, in a room of five other people. 
+For me, this is another _partial_ installation. I have my space, and crucially a key, but my desk is in a (thankfully empty) hot-desking room. For the previous job, it took longer to get a desk and a key…
 
-I'm not sure how things go in other fields, but a lot of Computer Science departments seem to be in the middle of recruiting to cover large numbers of students, but have no where to put the people. I've seen this even for more senior academics, who are also sharing offices. It's not exclusively impacting new academics like me. This is tricky, because I find that I need the quiet and space of being on my own to read and write well. But we will see what happens. 
+I'm not sure how things go in other fields, but a lot of Computer Science departments seem to be in the middle of recruiting to cover large numbers of students, but have no where to put the people. It's not exclusively impacting new academics like me; I've seen this even for more senior academics, who are also sharing offices. This is tricky, because I find that I need the quiet and space of being on my own to read and write well. But we'll see what happens. 
 
 There are benefits to having a team sharing an office. The group I shared my office with during my time at Liverpool was great: we got on well, we were all working on closely related things so it gave a sense of comradeship to the place, and (crucially) no one was overly loud.
-
-
 
 ## The Trouble with Teaching
 
@@ -34,6 +32,7 @@ As a post-doc, I did no teaching work within the university. As far as I underst
 
 The upshot of these situations is that the gap between doing some post-doc jobs and getting a job as a lecturer feels very large. There are bits of experiences that you can draw on to give evidence that you would be good at lecturing, but rarely can you point at things in the post-doc jobs you've done and say 'this shows me doing exactly what this job is'. I find this odd, and disconcerting. Also, surely this means that recruiting new lecturing staff is often about gambling on a person's potential. Then again, I suppose that was the case when I was applying for my PhD, but perhaps that feels different because it was a studentship rather than a job.
 
-## Somthing  witty about the campus
+## Post-Post Doc
 
-## Plans!!
+I think the crucial thing now is to make some plans and plough on with them, using the time I've been given. I have a few project proposals that I want to work up and submit, three(ish) papers that are in the works, all the admin and training needed for the new job, and my workshop. The Fifth International Workshop on Formal Methods for Autonomous Systems ([FMAS 2023](https://fmasworkshop.github.io/FMAS2023/)) is next month; it takes up a lot of time, but it is probably the one thing in my work life that I'm actually proud of. Lots to do. The road goes ever on and one…
+
