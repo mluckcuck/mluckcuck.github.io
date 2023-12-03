@@ -13,13 +13,13 @@ Both FMAS and iFM were held in Leiden, in The Netherlands. This was my first tim
 
 The other obvious observation is: bikes. There were a lot of bicycles, living up to the stereotype, and a lot of fantastic bicycling infrastructure. There were bicycle racks all over the place, lots of people cycling with kids (presumably to school) even in rainy weather, and lots of cycle lanes that were separated from the road. there was even a specific underpass for the cycle lane. It just felt so...modern, in a nice way. 
 
-![Picture of the view from my room]()
+![Picture of the view from my room]({{ site.url }}/files/images/FMAS2023-view.png "The view from my room.")
 
 After I arrived, I spent some time reviewing a few papers. Now, it was a Sunday so I would in general say that this was _bad_. But I hadn't had time to review them before and knew I wouldn't after I got back, so I chose to use some of that time on work. 
 
 Then I went downstairs to get dinner and ran into a work friend (I wonder why they were in Leiden...) so I got to have dinner and a beer, and catch up. This was a friend who I had so far only seen on work video calls, so it was really nice to see them in person. They also revealed that they have read some of these posts and said some nice things about them (Hi Mengwei!) so that was lovely. 
 
-
+![Picture of a windmill in Leiden]({{ site.url }}/files/images/FMAS2023-windmill.png "A windmill in Leiden, lit up at night.")
 
 
 ## integrated Formal Methods (iFM 23)
@@ -28,11 +28,11 @@ As I have said [before](/ifm2018), and will probably say again, I think that iFM
 
 That ramble aside, the conference was good fun. The venue used to be a textiles factory, so it had a trendy, post-industrial feel -- it could have been a hipster bar. 
 
-![Picture of the inside of the conference venue.]()
+![Picture of the inside of the conference venue.]({{ site.url }}/files/images/FMAS2023-venue.png "Inside the conference venue during one of the breaks")
 
 When I'm at a conference, I tend to not see very much of the city I'm in. The most obvious opportunity for a little sight-seeing is while heading to whatever social event/dinner might have been organised. While walking to dinner, I managed to get a few snaps.  Leiden seemed to be preparing for Christmas, so parts of the city centre were lit up and looking fantastic. 
 
-![Picture of the city centre of Leiden with lit-up decorations seen over the canal.]()
+![Picture of the city centre of Leiden with lit-up decorations seen over the canal.]({{ site.url }}/files/images/FMAS2023-lights.png "View from a bridge of the canal and trees lit up at night.")
 
 
 The conference had a nice programme and it had a joint session with FMAS, which seemed to be useful for both us and iFM. We picked two papers from iFM for the joint session, both of which were a great complement for the programme at our own workshop:
@@ -53,6 +53,8 @@ And that was the end of iFM 2023, however FMAS 2023 still had another day to go.
 This was the fifth year that we had run FMAS, which felt like a big milestone for a small workshop started by two Research Associates in 2019. I felt quite proud that we had made it this far, from having seven submissions in 2019 to having 25 submissions this year. 
 
 My introduction to the workshop was slightly nostalgic, looking back on the four previous workshops and talking about what might be coming next. We had asked two colleagues, Maike Schwammberger and Mario Gleirscher, to join us in organising FMAS. This should help spread the workload and hopefully bring in some fresh ideas for the next five years of the workshop. I had only intended that they observe this year's organising activities (I thought it was unfair to throw them in, mid-way through the cycle of organising the workshop) but they have been involved in lots of ways in the background this year, and I am very thankful for their help.
+
+![Picture of FMAS 2023 showing the audience ]({{ site.url }}/files/images/FMAS2023-audience.png "The audience at FMAS 2023, viewed from the back of the room, as we set up for a session.")
 
 As I said, this year FMAS received 25 submissions and we accepted 15. We kept using the four paper types that we introduced for FMAS 2022 (which I had borrowed from the [REFSQ](https://2022.refsq.org/series/refsq) conference, after we sent a paper there):
 
