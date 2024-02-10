@@ -3,7 +3,7 @@ layout: post
 title:  "Writing Papers in a Pandemic"
 date:   2021-07-17 17:15:19 +0000
 categories: [academia, research, mental-health]
-
+permalink: /pandeminc-papers
 section: Blog
 ---
 

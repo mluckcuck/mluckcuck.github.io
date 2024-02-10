@@ -10,7 +10,7 @@ My research interests lie in the intersection of formal software verification an
 
 ### Academic Profiles
 
-My publication and/or reviewing records are available on the following sites.
+My publication records are available on the following sites.
 
 Profiles:  <a href="https://orcid.org/{{ site.orcid_username }}"><img alt="ORCID logo" src="/files/logos/orcid_32x32.png" width="32" height="32"/></a>
   <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}"><img alt="researchgate logo" src="/files/logos/RG_square_green.png" width="32" height="32" /></a>
@@ -45,15 +45,17 @@ SCJ adopts a new programming paradigm for applications that must be certified. S
 
 A copy of my PhD thesis can be found on the [White Rose repository](http://etheses.whiterose.ac.uk/17743/). The slides for my Thesis Seminar, which is a presentation of my entire thesis work given just before the final hand in, can be <a href="/files/presentations/MLuckcuck_thesisSeminar.pdf" download >downloaded here</a>
 
+{% comment %}
+
 ## Publications and Presentations
 
 You can find external lists of my publications on my [dblp](http://dblp.uni-trier.de/pers/hd/l/{{site.dblp_username}}) page or my [google scholar](https://scholar.google.co.uk/citations?user={{site.scholar_username}}) page. My thesis work produced the list of publications below, which also shows links to the papers and slide (where available).
-
+{% endcomment %}
 {% comment %}
 Uncomment this to generate new bibliography, then copy html in below. Careful of [slide] links
 {% bibliography --file msl.bib%}
 {% endcomment %}
-
+{% comment %}
 <ul class="bibliography">
 <li><span id="Farrell2018">Farrell, M., Luckcuck, M., and Fisher, M. (2018). Robotics and Integrated Formal Methods: Necessity meets Opportunity. In <i>Integrated Formal Methods</i>  IFM 2018. Lecture Notes in Computer Science, vol 11023. <a href="https://doi.org/10.1007/978-3-319-98938-9_10"> https://doi.org/10.1007/978-3-319-98938-9_10 </a> <br>
 Download: <a href="https://arxiv.org/pdf/1805.11996" download ><button type="button" > Paper </button></a> <a href="/files/presentations/RAS-iFM.pdf" download ><button type="button" > Slides </button></a> <a href="/files/bib/Farrell2018.bib" download ><button type="button" > Bibtex </button></a>
@@ -84,3 +86,4 @@ Download: <a href="/files/presentations/CJ4ES_modellingSscjL2InCircus.pdf" downl
 Download: <a href="/files/presentations/efficientModelChecking.pdf" download > <button type="button" > Slides </button> </a>
 + Using _Circus_ to Verify Safety-Critical Java Level 2 Programs <br>
 Download: <a href="/files/presentations/verificationGroup.pdf" download > <button type="button" > Slides </button> </a>
+{% endcomment %}

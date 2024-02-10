@@ -4,7 +4,6 @@ title:  "FMAS 2023 and iFM 2023: Leap to Leiden"
 date:   2023-11-23 17:15:19 +0000
 categories: [academia]
 section: Blog
-draft: true
 ---
 
 I recently took my first work trip in my new job (which may be a personal record, since I've only working there for six weeks!) to run the workshop that I organise, [FMAS](https://fmasworkshop.github.io/), and attend the conference we held this year's edition of the workshop at, [iFM](https://liacs.leidenuniv.nl/~bonsanguemm/ifm23/index.html). 
