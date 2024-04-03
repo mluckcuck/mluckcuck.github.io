@@ -11,7 +11,7 @@ If you'd like to get in touch with me, feel free to drop me an email:
         <a href="mailto:{{site.workEmail}}" >{{site.workEmail}}</a> for work-related emails.
     </li>
   <li>
-    <a href="mailto:{{site.email}}" >{{site.email}}</a> for non-work emails.
+    <a href="mailto:{{site.personalEmail}}" >{{site.personalEmail}}</a> for non-work emails.
   </li>
 </ul>
 
