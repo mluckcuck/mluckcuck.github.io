@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dr Matt Luckcuck
-email: m.luckcuck@tutanota.com
+email: matt.luckcuck@nottingham.ac.uk
 workEmail: matt.luckcuck@nottingham.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Matt Luckcuck is powered by Earl Grey tea.
