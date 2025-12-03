@@ -5,12 +5,19 @@ permalink: /teaching/
 section: Teaching and Outreach
 ---
 
+I find teaching both enjoyable and rewarding. I have had experience with teaching a wide range of age- and ability-levels; from 8 to (nearly) 80, and from beginners up to university level. 
+
+University Lecturing
+------------------------
+
+At the [Universtiy of Nottingham](https://www.nottingham.ac.uk/computerscience/) I have co-teach a module on Software Specification, which focusses on how (and why) we capture the requirements of software during the development life cycle. My part of the module uses some of my previous research, introducing the students to NASA's [Formal Requirements Elicitation Tool (FRET)](https://github.com/NASA-SW-VnV/fret/). FRET allows you to write requiremets in a formal requirements language, that is a structured natrual language, and translates the requirements into temporal logic. This can be really helpful for enabling communication between stakeholders, while also producing unambiguous requirements that we can check for inconsistencies.
+
 Adult Education
 ---------------
 
 I delivered a 6 week adult-education course teaching introductory programming skills using Python, with [York Learning](http://yorklearning.org.uk/). The course contained 5 lectures and Python programming exercises (Week 4 focussed entirely on practical programming). I designed the lectures and Python exercises from scratch to teach the basic practical skills of programming. Feel free to [download](/files/Computer_Coding_For_Beginners.zip) the content of this course.
 
-University Demonstrating
+Teaching Assistent
 ------------------------
 
 During my PhD I took the opportunity to demonstrate on several modules of different levels and class sizes.
