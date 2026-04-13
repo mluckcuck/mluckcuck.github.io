@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Two Papers in (more than) Two Months "
+title:  "Two Papers in (more than) Two Months"
 date:   2024-02-10 11:15:19 +0000
 categories: [academia]
 section: Blog
@@ -29,7 +29,7 @@ Hopefully neither of these papers are still in-development at the end of this ye
 
 I should be getting my own (well, shared but permanent) office by the end of the month. The university policy is that everyone should be sharing office space, so I'll be going into an office with someone else, but apparently they're not on campus very often. Furniture is on order, to turn the one-person office into a two-person office, so lets hope it doesn't end up too cramped. 
 
-I think I've said this before somewhere, but I feel like being so miffed about not having an office looks...petty. But I think its an imposter-syndrome thing, where without something tangible, concrete, its very easy to feel like I don't belong. Right now I'm just perched at a desk, temporarily, for now; I've not got the feeling that I actually have a permanent job (though I do have my name on the door, which was a very nice surprise to find). 
+I think I've said this before somewhere, but I feel like being so miffed about not having an office looks...petty. But I think its an impostor-syndrome thing, where without something tangible, concrete, its very easy to feel like I don't belong. Right now I'm just perched at a desk, temporarily, for now; I've not got the feeling that I actually have a permanent job (though I do have my name on the door, which was a very nice surprise to find). 
 
-I'm away next week, and I'm hoping that I can move into the new office the week after. The nice thing is that it's on the same floor as, and around the corner from, the hot desking room where I'm sitting at the moment; so I don't have to leave behind the people I've started chatting to. 
+I'm away next week, and I'm hoping that I can move into the new office the week after. The nice thing is that it's on the same floor as, and around the corner from, the hot-desking room where I'm sitting at the moment; so I don't have to leave behind the people I've started chatting to. 
 
