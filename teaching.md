@@ -5,7 +5,7 @@ permalink: /teaching/
 section: Teaching and Outreach
 ---
 
-I find teaching both enjoyable and rewarding. I have had experience with teaching a wide range of age- and ability-levels; from 8 to (nearly) 80, and from beginners up to university level. 
+I find teaching both enjoyable and rewarding (and tiring as well!) I have had experience with teaching a wide range of age- and ability-levels; from 8 to (nearly) 80, and from beginners up to university level. 
 
 University Lecturing
 ------------------------
