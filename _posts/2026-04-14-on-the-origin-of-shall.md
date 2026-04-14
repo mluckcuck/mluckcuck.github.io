@@ -16,12 +16,12 @@ Structured requirements (at least the formats I've seen) often use the keyword "
 It makes sense to use "shall" for mandatory requirements (Sommerville suggests using "should" for optional requirements) but why "shall"? In my first year of teaching on the _Software Specification_ module, a student asked Julie (the module leader) why we use "shall", why not "will" or "must"? A chance purchase at a second-hand bookshop may have given me the answer.
 
 I was at [Kedleston Hall](https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/kedleston-hall) for a walk and (of course) popped into the second hand bookshop. One of the books that I bought was The Plain English Guide (First Edition, 1995). (The newest edition of this book, Fifth, has a new title [Oxford Guide to Plain English](https://global.oup.com/academic/product/oxford-guide-to-plain-english-9780198844617).) 
-![Front Cover of The Plain English Guide]({{ site.url }}/file/images/plainEnglish.png)
+![Front Cover of The Plain English Guide]({{ site.images }}plainEnglish.png)
 In explaining why _not_ to use the word "shall" it explains the grammatical rule for when it should be used, which I think is why "shall" is used in requirements.
 
 ## The Origin of Shall(?)
 
-![From The Plain English Guide "The old rule was that when writing of future events you would say 'I _shall_; you will; he/she/it will; we _shall_; you (plural) will; they will' but that when writing of promises, obligations or commands, the _wills_ and _shalls_ would change places."]({{ site.url }}/file/images/plainEnglish2.png)
+![From The Plain English Guide "The old rule was that when writing of future events you would say 'I _shall_; you will; he/she/it will; we _shall_; you (plural) will; they will' but that when writing of promises, obligations or commands, the _wills_ and _shalls_ would change places."]({{ site.images }}plainEnglish2.png)
 
 The Plain English Guide explains (on page 36) the rule of when to use shall and when to use will: "The old rule was that when writing of future events you would say 'I _shall_; you will; he/she/it will; we _shall_; you (plural) will; they will' but that when writing of promises, obligations or commands, the _wills_ and _shalls_ would change places." That is, when the future event is a promise or obligation, the text should say "you shall..." or "it shall...". The book continues, saying "the Old English root of 'shall' is 'sceal', meaning 'I must' or 'I owe'. 
 
