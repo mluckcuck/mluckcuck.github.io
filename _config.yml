@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Matt Luckcuck is powered by Earl Grey tea.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mluckcuck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: MattLuckcuck
+bluesky_username: mattluckcuck.bsky.social
 images: https://mluckcuck.github.io/files/images/
 
 bitbucket_username: ml881

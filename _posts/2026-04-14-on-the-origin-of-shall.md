@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "On the Origin of Shall"
-date:   2026-04-14 10:33:19 +0000
-categories: [academia]
+date:   2026-04-14 10:33:19 +0100
+categories: [teaching, requirements]
 section: Blog
 
 ---

@@ -8,7 +8,7 @@ layout: default
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 
-        {% assign d = page.date | date: "%-d"  %}
+        Date: {% assign d = page.date | date: "%-d"  %}
         {% case d %}
           {% when '1' or '21' or '31' %}{{ d }}st
           {% when '2' or '22' %}{{ d }}nd
@@ -18,6 +18,13 @@ layout: default
         {{ page.date | date: "of %B" }}
         {{ page.date | date: " %Y" }}
       </time>
+      <br>
+      <span>
+        Categories: {% assign categories = page.categories %}
+        {% for c in categories %}
+          {{c}}{% if forloop.last == false %},{% endif %}
+        {%endfor%}
+      </span>
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
